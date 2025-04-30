@@ -44,7 +44,7 @@
     <metaTag name="partName">Violin</metaTag>
     <Part id="3">
       <Staff id="1">
-        <linkedTo>5</linkedTo>
+        <linkedTo>2</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -79,14 +79,14 @@
         <eid>6P5Sxq/FBaC_MLSOgQ1VSCD</eid>
         <linked>
           <location>
-            <staves>-4</staves>
+            <staves>-1</staves>
             </location>
           </linked>
         <Text>
           <eid>Z4s7dHpV+uM_roYH3Q3VutF</eid>
           <linked>
             <location>
-              <staves>-4</staves>
+              <staves>-1</staves>
               </location>
             </linked>
           <style>title</style>
@@ -96,7 +96,7 @@
           <eid>EYovEj6H1tN_cjOgQCXS2+F</eid>
           <linked>
             <location>
-              <staves>-4</staves>
+              <staves>-1</staves>
               </location>
             </linked>
           <style>subtitle</style>
@@ -106,7 +106,7 @@
           <eid>Aj3ZyDlZUnK_VsH51FXlp+G</eid>
           <linked>
             <location>
-              <staves>-4</staves>
+              <staves>-1</staves>
               </location>
             </linked>
           <style>composer</style>
@@ -140,7 +140,7 @@
             <eid>LouLPIsAbnG_hhJO027jhx</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
@@ -174,11 +174,11 @@
             <eid>NzY0vWtldYP_qrm+kULXX4M</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
-            <text>Intro</text>
+            <text>Intro Sex</text>
             </RehearsalMark>
           <Rest>
             <eid>05/CpptD7ZE_WD0jo86obgP</eid>
@@ -190,19 +190,19 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="32/4">
-        <multiMeasureRest>8</multiMeasureRest>
+      <Measure len="36/4">
+        <multiMeasureRest>9</multiMeasureRest>
         <eid>izv+0cXHrxB_Xck7h3QgLiM</eid>
         <voice>
           <RehearsalMark>
             <eid>YTr3lk2/f4O_B3Ba8Wk2FKN</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
-            <text>Intro</text>
+            <text>Intro Sex</text>
             </RehearsalMark>
           <Rest>
             <eid>tagoGScYmTI_eo183a8tiFH</eid>
@@ -210,6 +210,20 @@
             <durationType>measure</durationType>
             <duration>32/4</duration>
             </Rest>
+          <location>
+            <fractions>1/1</fractions>
+            </location>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>lDbGHAKl6MH_TO2X/U6myM</eid>
+            <linked>
+              <score>same</score>
+              <location>
+                <staves>-1</staves>
+                <fractions>-1/1</fractions>
+                </location>
+              </linked>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -294,13 +308,153 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>8aaGXJC0qMO_bi5GSXEsOAK</eid>
+        <voice>
+          <Rest>
+            <eid>8R5NXIueILO_VR4CEZBitCG</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>b6lL4Pq6iUN_Yfn2eiPEvlN</eid>
+        <voice>
+          <RehearsalMark>
+            <eid>dkMz1g+/kp_o9XXao5/FjH</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>Intro</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>66xnaCPKyLL_PNp53sfKRlG</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="32/4">
+        <multiMeasureRest>8</multiMeasureRest>
+        <eid>gfKYF4BB+BL_Hq6avAhvdhN</eid>
+        <voice>
+          <RehearsalMark>
+            <eid>XAhlBtBaz2H_FXWT5jD+IgG</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>Intro</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>EeSroUd11/B_+mK8a3pcLWI</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>32/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>qm3QfoMPvOE_ly8nn2xg2aM</eid>
+        <voice>
+          <Rest>
+            <eid>pXuZbH0pjMB_9Xh5AO6YJYF</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>2gDlzBpTdkE_Raobdl8S6mF</eid>
+        <voice>
+          <Rest>
+            <eid>YZDJgNN3WxM_IZ+0Hfnyt5O</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>KEZ3Cw70km_4/u7NHJtAPG</eid>
+        <voice>
+          <Rest>
+            <eid>UinaIEyzvUO_/oScwGcPUpJ</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>WrTeX45GdIP_EgteNkhITxH</eid>
+        <voice>
+          <Rest>
+            <eid>s91Ji7rV/PO_svD5EUQxXkI</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>3tJDiw4uviB_EcfexPELkVE</eid>
+        <voice>
+          <Rest>
+            <eid>HgINDlWfrRL_QRG1d03QfFF</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>XdFLzlEZ9VM_wR4cClUFycG</eid>
+        <voice>
+          <Rest>
+            <eid>eZByR4mOiUF_10l6XW/7SFC</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>i926eBhrYwE_k9rH9H88YoG</eid>
+        <voice>
+          <Rest>
+            <eid>wDc/VYl5dWK_43fxGUKylYO</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
-            <eid>3Y2LvKqtpLN_cGMla+cC+HN</eid>
+            <eid>BYSUQZcJYXJ_MsAAjWCz8uK</eid>
             <linked>
               <score>same</score>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             </BarLine>
@@ -314,7 +468,7 @@
             <eid>CRNhBz7GxkF_Y9TL2dWZU8M</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               <indexDiff>-1</indexDiff>
               </linked>
@@ -338,7 +492,7 @@
             <eid>5u/4CIvEUlP_HXmDVqBv3oP</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>A1</text>
@@ -434,8 +588,9 @@
               <eid>QExQVuBnI9O_kGIHhF5bUaC</eid>
               <linked>
                 <location>
-                  <staves>-4</staves>
+                  <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>1</endings>
               </Volta>
@@ -471,8 +626,9 @@
               <eid>9ybfFbsHtXN_C+0YqA3vA5O</eid>
               <linked>
                 <location>
-                  <staves>-4</staves>
+                  <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>2</endings>
               </Volta>
@@ -504,7 +660,7 @@
             <eid>97qoTUOUolE_Z28CZS+LDaH</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -535,7 +691,7 @@
             <eid>ylIcFC8qvSE_PrbVpdD0beC</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -547,6 +703,12 @@
             <durationType>measure</durationType>
             <duration>32/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>qDOpRblNSFL_rsp/dLmfV4E</eid>
+            <linked>
+              </linked>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -647,7 +809,7 @@
             <eid>Vg+87//7KiB_WWBrGSMokOB</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>C1</text>
@@ -672,7 +834,7 @@
             <eid>SB8II5LX1MM_rEjmej1Q7+D</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>C1</text>
@@ -730,7 +892,7 @@
             <eid>iVO9noKqYO_s4G0CT0upeJ</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>A2</text>
@@ -753,7 +915,7 @@
             <eid>q7Iw+GHWHsJ_bQh61bO94hM</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>A2</text>
@@ -849,8 +1011,9 @@
               <eid>pq0RlXRWqwB_hrME/NkjfPM</eid>
               <linked>
                 <location>
-                  <staves>-4</staves>
+                  <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>1</endings>
               </Volta>
@@ -886,8 +1049,9 @@
               <eid>KuSgtShRoyE_CK2/bKJvQXN</eid>
               <linked>
                 <location>
-                  <staves>-4</staves>
+                  <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>2</endings>
               </Volta>
@@ -919,7 +1083,7 @@
             <eid>YmNBuje7+nB_0LBOP/CBHxP</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -950,7 +1114,7 @@
             <eid>dINFKg+RuQC_pmEjsnboJBG</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -1062,7 +1226,7 @@
             <eid>Aba+E5X8eKG_nQUwUbjss0P</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>C2</text>
@@ -1087,7 +1251,7 @@
             <eid>qijvyxnS68B_+MDOdlD3vm</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>C2</text>
@@ -1145,7 +1309,7 @@
             <eid>dPQp/RBBJ1G_qm5F1UgaSgC</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>A3</text>
@@ -1169,7 +1333,7 @@
             <eid>IVd1GE23LRB_KU7j9ncP7rK</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>A3</text>
@@ -1287,7 +1451,7 @@
             <eid>P7ctIpE3u/H_I3AJ6/7O3xF</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>B3</text>
@@ -1310,7 +1474,7 @@
             <eid>jDlgJGhAZKM_lbeFy8+DKMF</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>B3</text>
@@ -1406,8 +1570,9 @@
               <eid>5lfcGNE8ioG_JQQE/SS+45I</eid>
               <linked>
                 <location>
-                  <staves>-4</staves>
+                  <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>1</endings>
               </Volta>
@@ -1443,8 +1608,9 @@
               <eid>Iref0H+iwIM_FlaVt7s6R4M</eid>
               <linked>
                 <location>
-                  <staves>-4</staves>
+                  <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>2</endings>
               </Volta>
@@ -1471,7 +1637,7 @@
             <eid>gbh1NREJQW_GvjQ9Qoi9dD</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>C3</text>
@@ -1501,7 +1667,7 @@
             <eid>9b0iPXxwm2M_tDoWOY9CegJ</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-1</staves>
                 </location>
               </linked>
             <text>C3</text>
@@ -1549,8 +1715,9 @@
               <eid>YsU0BT08Q2G_BBgUupoFBcN</eid>
               <linked>
                 <location>
-                  <staves>-4</staves>
+                  <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>1</endings>
               </Volta>
@@ -1585,8 +1752,9 @@
               <eid>j+ejQ+JkVm_v5A2k0EfgdM</eid>
               <linked>
                 <location>
-                  <staves>-4</staves>
+                  <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>2</endings>
               </Volta>

@@ -44,7 +44,7 @@
     <metaTag name="partName">Electric Guitar</metaTag>
     <Part id="4">
       <Staff id="1">
-        <linkedTo>6</linkedTo>
+        <linkedTo>3</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -102,14 +102,14 @@
         <eid>9MxpVPHKCUD_EQg/yhpEvrE</eid>
         <linked>
           <location>
-            <staves>-5</staves>
+            <staves>-2</staves>
             </location>
           </linked>
         <Text>
           <eid>5fc4gRC9d/_VHZ2mJiWy/K</eid>
           <linked>
             <location>
-              <staves>-5</staves>
+              <staves>-2</staves>
               </location>
             </linked>
           <style>title</style>
@@ -119,7 +119,7 @@
           <eid>MsSzKyoVYLL_aF8KWCA7SrH</eid>
           <linked>
             <location>
-              <staves>-5</staves>
+              <staves>-2</staves>
               </location>
             </linked>
           <style>subtitle</style>
@@ -129,7 +129,7 @@
           <eid>4HTrPVPiafF_75KgGwWOSVG</eid>
           <linked>
             <location>
-              <staves>-5</staves>
+              <staves>-2</staves>
               </location>
             </linked>
           <style>composer</style>
@@ -163,7 +163,7 @@
             <eid>wtJpfeS40iB_s6syhxPMQgM</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
@@ -197,41 +197,30 @@
             <eid>Z3rsE5U0FFG_8WbO1dC/Eo</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
-            <text>Intro</text>
+            <text>Intro Sex</text>
             </RehearsalMark>
           <Rest>
-            <eid>G+o0txxHpdN_nJaqYfZoPrK</eid>
+            <eid>nC2PQDt5cg_//euumKHfpN</eid>
             <linked>
               <indexDiff>1</indexDiff>
               </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
-          </voice>
-        </Measure>
-      <Measure len="32/4">
-        <multiMeasureRest>8</multiMeasureRest>
-        <eid>sbkjJxZ1jYI_MngsO3obahC</eid>
-        <voice>
-          <RehearsalMark>
-            <eid>4MkO0703XuF_StbJL0zwagC</eid>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              <indexDiff>1</indexDiff>
-              </linked>
-            <text>Intro</text>
-            </RehearsalMark>
           <Rest>
-            <eid>W0jKSjq1Nz_zp3TRw+EO5O</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>32/4</duration>
+            <eid>Xa1dn4Qh/kG_NPcbhxr1y4D</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <eid>AF9pwUsm2jF_d1fXYjkU4I</eid>
+            <linked>
+              </linked>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -244,6 +233,18 @@
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="12/4">
+        <multiMeasureRest>3</multiMeasureRest>
+        <eid>a6R97DNPsnO_0aMszsKHANE</eid>
+        <voice>
+          <Rest>
+            <eid>oRasOPjaZUM_TJpug2RAKCH</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>28/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -275,11 +276,16 @@
         <eid>pAQUo9MK7bI_gR4XmaajbQD</eid>
         <voice>
           <Rest>
-            <eid>JmgLxhR1qGK_nXGNz+pwKeC</eid>
+            <eid>uqxXXQ04P9C_H1FkBWOatxM</eid>
             <linked>
               </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
+            </Rest>
+          <Rest>
+            <eid>pG8O98sFayN_+Z8JIh3uO7L</eid>
+            <linked>
+              </linked>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -292,6 +298,18 @@
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="16/4">
+        <multiMeasureRest>4</multiMeasureRest>
+        <eid>KNVgxfjvZLJ_/uP9FgcoUPL</eid>
+        <voice>
+          <Rest>
+            <eid>d214y8XjutE_9gEayEIL2QH</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>12/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -317,13 +335,153 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>8+f/yECW8+K_7MWvl2dsZVL</eid>
+        <voice>
+          <Rest>
+            <eid>RwHWlHiUrzK_467gT78uDiG</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>JcPxZE4a7BN_8OK/0Unf6OH</eid>
+        <voice>
+          <RehearsalMark>
+            <eid>6Rfh7elt6jG_khvYMxRLJGP</eid>
+            <linked>
+              <location>
+                <staves>-2</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>Intro</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>Ht7T5iSZD3E_5TwkyfyeCCF</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="32/4">
+        <multiMeasureRest>8</multiMeasureRest>
+        <eid>EzQ35RAZ1JP_EnV5zTCmZlB</eid>
+        <voice>
+          <RehearsalMark>
+            <eid>6UwVe7UdyjL_LTpsKQwc5jG</eid>
+            <linked>
+              <location>
+                <staves>-2</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>Intro</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>Fjr5zeKPTYI_SGOavuqdDlI</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>32/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>xWI8PJQlSSL_FUnQ8pBzFVC</eid>
+        <voice>
+          <Rest>
+            <eid>sLGwok48zmB_Pm2ZxM9KEPE</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>aPWIKBBbptN_c9wKyvTsvJC</eid>
+        <voice>
+          <Rest>
+            <eid>7ZpAqzNm42D_D+T/4YOzEGI</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>nDvSClecCQP_nGVkJnR6ZkD</eid>
+        <voice>
+          <Rest>
+            <eid>N7WU9e7XDtE_QS9JoLryIxD</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>ApGsrDB2cCF_/Iv0S9wMsEK</eid>
+        <voice>
+          <Rest>
+            <eid>vVyWuX/fmF_yPJNfcNTiKI</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>6lEq6A0Z/KD_4j7N/D+2gsH</eid>
+        <voice>
+          <Rest>
+            <eid>end53VZZA0G_7lDxiqqU5SB</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>sNQh4RjjNi_dfAv0ue09OH</eid>
+        <voice>
+          <Rest>
+            <eid>Vjv9sxTVruI_F6Y8KXpDblI</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>/C56HyoSTuF_ICv4g2G4eCC</eid>
+        <voice>
+          <Rest>
+            <eid>Ba1ok7S365C_REsblD3S7zG</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
-            <eid>mnfUE3b/A7_+m/hMuqwyTL</eid>
+            <eid>WFJuJ3R0wr_9O9cEf5/OWP</eid>
             <linked>
               <score>same</score>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             </BarLine>
@@ -337,7 +495,7 @@
             <eid>trce2XhJ5QI_pjxp1Zt6EvC</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               <indexDiff>-1</indexDiff>
               </linked>
@@ -361,7 +519,7 @@
             <eid>auBH0F5PZmC_QNgQUlmt3uE</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>A1</text>
@@ -457,8 +615,9 @@
               <eid>Q1sb+U7g18F_4mxb/fIT07H</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>1</endings>
               </Volta>
@@ -494,8 +653,9 @@
               <eid>JRJ7ipmHWAP_r7kpJXwXYNB</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>2</endings>
               </Volta>
@@ -527,7 +687,7 @@
             <eid>Pv6MLFz/7mI_w5nFpqeLH0E</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -558,7 +718,7 @@
             <eid>VIyVOsUT80G_6oLfkO7rGFC</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -670,7 +830,7 @@
             <eid>T7SZ6TyUnoJ_mb0n0xVr1PH</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>C1</text>
@@ -695,7 +855,7 @@
             <eid>gaAwyr9yaFC_OhoHwHNG2BH</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>C1</text>
@@ -753,7 +913,7 @@
             <eid>70EjaHrLdsM_Ype92vubFXN</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>A2</text>
@@ -776,7 +936,7 @@
             <eid>8a0ECwEqRxH_qzB9tQ0cYM</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>A2</text>
@@ -872,8 +1032,9 @@
               <eid>LeL2J/b1kK_ZEJ8QQpW3b</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>1</endings>
               </Volta>
@@ -909,8 +1070,9 @@
               <eid>TUUvTFX6L0K_yHXYyKSDGZG</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>2</endings>
               </Volta>
@@ -942,7 +1104,7 @@
             <eid>1xi+zEhW9gK_qyB0bGRVx0D</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -973,7 +1135,7 @@
             <eid>Xp06r6480B_W4CYmME1yw</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -1085,7 +1247,7 @@
             <eid>CmPx7W9Bns_B9FFitSwQUB</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>C2</text>
@@ -1110,7 +1272,7 @@
             <eid>B3xc6qveJON_6J0F51cB+YN</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>C2</text>
@@ -1168,7 +1330,7 @@
             <eid>mAMZ+fidTfL_WbH8G9rptIN</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>A3</text>
@@ -1192,7 +1354,7 @@
             <eid>BteKMoHC27_jGQQIrfebEL</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>A3</text>
@@ -1310,7 +1472,7 @@
             <eid>b6/b8ZFbvVK_dwbpWs1HizP</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>B3</text>
@@ -1333,7 +1495,7 @@
             <eid>MXYMe1nMAiG_ld5gNhQEwBB</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>B3</text>
@@ -1429,8 +1591,9 @@
               <eid>6d3UrsQJeTK_jUDdYEglrTC</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>1</endings>
               </Volta>
@@ -1466,8 +1629,9 @@
               <eid>igE4kVFNXSD_4EOCUumXWGO</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>2</endings>
               </Volta>
@@ -1494,7 +1658,7 @@
             <eid>orLvW1BeVLG_0/WjGmoPlZB</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>C3</text>
@@ -1524,7 +1688,7 @@
             <eid>kO2H/k3lJNF_1MnYko6ClbP</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-2</staves>
                 </location>
               </linked>
             <text>C3</text>
@@ -1572,8 +1736,9 @@
               <eid>IEQ2UFysSMF_LePgcm65pdL</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>1</endings>
               </Volta>
@@ -1608,8 +1773,9 @@
               <eid>aXYRR1Di9GL_p4c2r4VBz0E</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <endings>2</endings>
               </Volta>

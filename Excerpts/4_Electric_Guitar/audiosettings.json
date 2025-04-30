@@ -9,6 +9,14 @@
             }
         },
         {
+            "instrumentId": "chord_symbols",
+            "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "electric-piano",
             "partId": "6",
             "soloMuteState": {
@@ -33,8 +41,24 @@
             }
         },
         {
+            "instrumentId": "chord_symbols",
+            "partId": "5",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "violin",
             "partId": "3",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "bass-guitar",
+            "partId": "5",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -49,8 +73,40 @@
             }
         },
         {
-            "instrumentId": "bass-guitar",
-            "partId": "5",
+            "instrumentId": "alto-saxophone",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "alto-saxophone",
+            "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "tenor-saxophone",
+            "partId": "9",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "9",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

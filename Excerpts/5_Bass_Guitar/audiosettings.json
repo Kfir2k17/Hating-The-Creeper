@@ -17,6 +17,14 @@
             }
         },
         {
+            "instrumentId": "chord_symbols",
+            "partId": "5",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "violin",
             "partId": "3",
             "soloMuteState": {
@@ -27,6 +35,14 @@
         {
             "instrumentId": "voice",
             "partId": "1",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "8",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -51,6 +67,46 @@
         {
             "instrumentId": "chord_symbols",
             "partId": "6",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "alto-saxophone",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "alto-saxophone",
+            "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "tenor-saxophone",
+            "partId": "9",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "9",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
