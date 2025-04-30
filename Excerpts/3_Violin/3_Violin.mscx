@@ -216,13 +216,6 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>lDbGHAKl6MH_TO2X/U6myM</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-1</staves>
-                <fractions>-1/1</fractions>
-                </location>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
