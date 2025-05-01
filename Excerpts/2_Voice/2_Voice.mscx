@@ -1192,18 +1192,17 @@
               </linked>
             <durationType>half</durationType>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>owzIit84QsN_6aFPPR/c4IK</eid>
+            <linked>
+              </linked>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <eid>egyvpi6zyoC_h8LUqxPhzzL</eid>
-        <startRepeat/>
         <voice>
-          <RehearsalMark>
-            <eid>UwPTC4K1gtK_M7lAzwATtcK</eid>
-            <linked>
-              </linked>
-            <text>A1</text>
-            </RehearsalMark>
           <Harmony>
             <root>21</root>
             <name>m</name>
@@ -1299,6 +1298,7 @@
         </Measure>
       <Measure>
         <eid>XlElgoFU4LM_1njk1/aiuMI</eid>
+        <startRepeat/>
         <voice>
           <Harmony>
             <root>21</root>
@@ -1307,6 +1307,12 @@
             <linked>
               </linked>
             </Harmony>
+          <RehearsalMark>
+            <eid>7zxqp4DTZR_096KfTSqWFO</eid>
+            <linked>
+              </linked>
+            <text>A1</text>
+            </RehearsalMark>
           <Rest>
             <eid>8l3smq29mvL_LXtXMA+/4RI</eid>
             <linked>
