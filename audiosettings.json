@@ -384,6 +384,7 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
+<<<<<<< HEAD
                         "presetBank": "0",
                         "presetName": "Distortion Guitar",
                         "presetProgram": "30",
@@ -391,6 +392,12 @@
                     },
                     "hasNativeEditorSupport": false,
                     "id": "MS Basic\\0\\30",
+=======
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+>>>>>>> 419bc6e59dab2efc681490c3e6b5289f6fb1be49
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
