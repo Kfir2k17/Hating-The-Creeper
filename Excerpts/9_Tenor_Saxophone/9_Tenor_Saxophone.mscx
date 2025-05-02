@@ -173,6 +173,13 @@
       <Measure>
         <eid>EZ+DII1M2aP_IvmB33u3i5M</eid>
         <voice>
+          <Harmony>
+            <root>23</root>
+            <name>m</name>
+            <eid>ODbKvZyH66N_+FcBwnu+V0F</eid>
+            <linked>
+              </linked>
+            </Harmony>
           <RehearsalMark>
             <eid>9uOTFqVsIyG_PP/rWUA6zEC</eid>
             <linked>
@@ -180,26 +187,18 @@
                 <staves>-5</staves>
                 </location>
               </linked>
-            <text>Intro Sex</text>
+            <text>Sex Intro</text>
             </RehearsalMark>
-          <Harmony>
-            <root>23</root>
-            <name>m</name>
-            <eid>ODbKvZyH66N_+FcBwnu+V0F</eid>
-            <linked>
-              <indexDiff>1</indexDiff>
-              </linked>
-            </Harmony>
           <Chord>
             <eid>MSZXBrnsnyL_vd5DiuVbTXB</eid>
             <linked>
-              <indexDiff>1</indexDiff>
+              <indexDiff>2</indexDiff>
               </linked>
             <durationType>whole</durationType>
             <Note>
               <eid>TJUjM1dFT0M_gbB9/OK3H1</eid>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <pitch>56</pitch>
               <tpc>22</tpc>
