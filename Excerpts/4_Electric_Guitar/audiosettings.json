@@ -33,6 +33,14 @@
             }
         },
         {
+            "instrumentId": "voice",
+            "partId": "1",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "chord_symbols",
             "partId": "5",
             "soloMuteState": {
@@ -49,8 +57,8 @@
             }
         },
         {
-            "instrumentId": "voice",
-            "partId": "1",
+            "instrumentId": "bass-guitar",
+            "partId": "5",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -59,14 +67,6 @@
         {
             "instrumentId": "chord_symbols",
             "partId": "1",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "bass-guitar",
-            "partId": "5",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

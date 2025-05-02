@@ -95,33 +95,16 @@
         <eid>B6ubG6gw0FK_CjNBYqLqiiJ</eid>
         <Text>
           <eid>JkZObx5Tf6L_XPQidLGzN0J</eid>
-          <linked>
-            <location>
-              <staves>-9</staves>
-              </location>
-            </linked>
           <style>title</style>
           <text>שונא את הקריפר</text>
           </Text>
         <Text>
           <eid>gC9QCHJISfF_3+5P+9zU7oN</eid>
-          <linked>
-            <location>
-              <staves>-9</staves>
-              </location>
-            <indexDiff>-1</indexDiff>
-            </linked>
           <style>subtitle</style>
           <text>צארט</text>
           </Text>
         <Text>
           <eid>uzD4MbrjHzJ_YqxpsjQs/7</eid>
-          <linked>
-            <location>
-              <staves>-9</staves>
-              </location>
-            <indexDiff>-2</indexDiff>
-            </linked>
           <style>composer</style>
           <text>ריהאנה וגיא טיוי</text>
           </Text>
@@ -255,6 +238,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -270,6 +254,7 @@
               <pitch>46</pitch>
               <tpc>12</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -314,6 +299,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -329,6 +315,7 @@
               <pitch>46</pitch>
               <tpc>12</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Rest>
@@ -345,6 +332,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -356,6 +344,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Rest>
@@ -380,6 +369,7 @@
               <pitch>44</pitch>
               <tpc>22</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Rest>
@@ -423,6 +413,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -438,6 +429,7 @@
               <pitch>46</pitch>
               <tpc>12</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Rest>
@@ -454,6 +446,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -465,6 +458,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Rest>
@@ -489,6 +483,7 @@
               <pitch>44</pitch>
               <tpc>22</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Rest>
@@ -532,6 +527,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -543,6 +539,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -554,6 +551,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -565,6 +563,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -585,6 +584,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -596,6 +596,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -607,6 +608,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -618,6 +620,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -766,6 +769,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -782,6 +786,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -793,6 +798,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -809,6 +815,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -881,6 +888,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -898,6 +906,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -919,6 +928,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -935,6 +945,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -1016,6 +1027,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1032,6 +1044,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1043,6 +1056,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1059,6 +1073,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -1131,6 +1146,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1151,6 +1167,7 @@
               <pitch>46</pitch>
               <tpc>12</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1305,6 +1322,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1321,6 +1339,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1332,6 +1351,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1348,6 +1368,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -1420,6 +1441,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1436,6 +1458,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1447,6 +1470,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1463,6 +1487,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -1535,6 +1560,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1551,6 +1577,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1562,6 +1589,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1578,6 +1606,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -1664,6 +1693,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1680,6 +1710,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1691,6 +1722,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1707,6 +1739,7 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           </voice>
@@ -1849,6 +1882,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1876,6 +1910,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1908,6 +1943,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -1945,6 +1981,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2038,6 +2075,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2065,6 +2103,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2097,6 +2136,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2134,6 +2174,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2227,6 +2268,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2254,6 +2296,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2286,6 +2329,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2323,6 +2367,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2416,6 +2461,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2443,6 +2489,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2475,6 +2522,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2512,6 +2560,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2605,6 +2654,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2632,6 +2682,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2664,6 +2715,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2701,6 +2753,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2794,6 +2847,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2821,6 +2875,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2853,6 +2908,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2890,6 +2946,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -2983,6 +3040,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -3010,6 +3068,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -3042,6 +3101,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -3079,6 +3139,7 @@
               <pitch>51</pitch>
               <tpc>11</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -3172,6 +3233,7 @@
               <pitch>49</pitch>
               <tpc>21</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -3183,6 +3245,7 @@
               <pitch>49</pitch>
               <tpc>21</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
@@ -3194,6 +3257,7 @@
               <pitch>52</pitch>
               <tpc>18</tpc>
               <head>cross</head>
+              <dead>1</dead>
               </Note>
             </Chord>
           <Chord>
