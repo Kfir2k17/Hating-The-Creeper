@@ -111,6 +111,14 @@
                 "mute": true,
                 "solo": false
             }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "4",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
         }
     ]
 }

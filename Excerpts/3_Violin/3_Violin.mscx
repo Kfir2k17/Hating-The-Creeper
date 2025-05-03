@@ -598,7 +598,7 @@
             <durationType>half</durationType>
             <Note>
               <eid>KTSOYNTzfRP_tfA47AV8xYM</eid>
-              <pitch>61</pitch>
+              <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
@@ -607,7 +607,7 @@
             <durationType>half</durationType>
             <Note>
               <eid>YXOO/QxKmKC_zcn/8oLYtOE</eid>
-              <pitch>59</pitch>
+              <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
@@ -626,7 +626,7 @@
               </Articulation>
             <Note>
               <eid>wV5G9dSMFCK_WQsDtkl4ZQ</eid>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -635,7 +635,7 @@
             <durationType>half</durationType>
             <Note>
               <eid>gfjrzo9FRLJ_gep5dju653F</eid>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -653,7 +653,7 @@
             <durationType>half</durationType>
             <Note>
               <eid>D+pTuCy5wuO_cuQTeOBhtm</eid>
-              <pitch>61</pitch>
+              <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
@@ -662,7 +662,7 @@
             <durationType>half</durationType>
             <Note>
               <eid>4PFPWu0L/zF_zzu8FMn1uDB</eid>
-              <pitch>59</pitch>
+              <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
@@ -695,7 +695,7 @@
               </Articulation>
             <Note>
               <eid>oqihLRoHvlO_0CqTGk2KWMP</eid>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -704,7 +704,7 @@
             <durationType>half</durationType>
             <Note>
               <eid>9nt+LfCsidH_TtrwnJWC/EN</eid>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -753,6 +753,7 @@
         <voice>
           <RehearsalMark>
             <eid>97qoTUOUolE_Z28CZS+LDaH</eid>
+            <linkedMain/>
             <text>B1</text>
             </RehearsalMark>
           <Spanner type="Volta">
@@ -764,11 +765,30 @@
             </Spanner>
           <Rest>
             <eid>uFaACC+E/5G_Zuh2jEenonM</eid>
-            <durationType>half</durationType>
+            <durationType>whole</durationType>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure len="12/4">
+        <multiMeasureRest>3</multiMeasureRest>
+        <eid>WSjeCDxHvLP_4I9l75POhaN</eid>
+        <voice>
+          <RehearsalMark>
+            <eid>lfz9Brq6wHP_4Z6RvUBPKTI</eid>
+            <linked>
+              <score>same</score>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>-1</indexDiff>
+              </linked>
+            <text>B1</text>
+            </RehearsalMark>
           <Rest>
-            <eid>vSFw+GTzy+P_YP0oYehDGTE</eid>
-            <durationType>half</durationType>
+            <eid>iP3dJ1hYlhO_pjk90unBmLE</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>12/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -779,18 +799,6 @@
             <eid>KPbNSYCuNHL_+js4nEMPB4F</eid>
             <durationType>measure</durationType>
             <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="28/4">
-        <multiMeasureRest>7</multiMeasureRest>
-        <eid>bGvXo2Du0QN_Mq7Z+g2/dlO</eid>
-        <voice>
-          <Rest>
-            <eid>+ibjb59QumJ_xdQ/gZTS1PK</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>28/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -805,22 +813,188 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>k+zLUk7VdM_xPpwSdkF+jB</eid>
+        <eid>i3Tx9oC5sCI_82RZxwZLwrM</eid>
         <voice>
           <Rest>
-            <eid>xFknmBYLkj_gFsiUsdhNmN</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <eid>9IyxO74E1zI_lORG/6ityAF</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
             </Rest>
+          <Rest>
+            <eid>7Jfn7xEJA/O_+wG+E5m2lNK</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <eid>JkCwWQMViyG_XAKxTmcqnVD</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>OU/F7luCeOO_L3c33dcdiVC</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>ECjYndm8a3D_zFzk1mWktBG</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>0I7dheittfB_GR1sZDvW1aI</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>BKHUPl8AW6C_cHp/5p9WFoI</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>pwDwL5RQ9RC_tDcrnsBtjZH</eid>
+              <linked>
+                </linked>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>QZaol7Iv6ZD_dCy8G3A02gN</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>QOwUhYHzJFE_ZHkdoySnjIH</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>VOuGNATm4BM_SzGkO46jm1P</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>+Znuwl/ax+E_lfjdLHtJyxD</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <Tie>
+                  <eid>EBgLIId5nMH_s6b68PiC+5M</eid>
+                  <linked>
+                    </linked>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <eid>5uLAZi7HoGG_9NbwIzkb6pP</eid>
         <voice>
+          <Harmony>
+            <root>21</root>
+            <name>m</name>
+            <eid>xI4Q/anRsdB_o6JjMRu9BBB</eid>
+            <linked>
+              </linked>
+            </Harmony>
+          <Chord>
+            <eid>HEtWAen0akM_7cc1Ks37C5B</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>nDe/Xv5xvIK_AAZObEHFrSN</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>S9QMmWZiXgD_HC9HsVQ662O</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>aXSeL2EYltI_Wit/fGuIUSF</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>RpiG7co+UeL_sgZrqDlyuOL</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>mxGqkJtacxG_/TRoSctVf9E</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>AgPvh4NrE2F_Coz0O50IZmN</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>aOJtcquut6I_ssxUqgHjcAB</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>joZe2qFFMXL_ZXocinwj7QO</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>oU7XyEJHriP_6MN96SumJ</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
           <Rest>
-            <eid>yh2yKQ2MJ4H_1moPmCJwWtI</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <eid>O7M5QPXo7TC_tSqzg/0lKiD</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -828,40 +1002,272 @@
         <eid>IHDVofUnaN_oC+JHXClbOL</eid>
         <voice>
           <Rest>
-            <eid>4540NSCzdCE_m1SNlWHpIm</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <eid>7eCqopZbyrJ_CJLHDLK22EJ</eid>
+            <linked>
+              </linked>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             </Rest>
+          <Chord>
+            <eid>xNnk42Eq60I_Dgum41B5KfH</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>eeD311DYbIB_mvhQrcmNotM</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>EYIHTyoTpjJ_P83cj9Y+PyH</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>BLpK/x6EtqM_pEc+skAOSgD</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>pf7Ut7zw6aJ_KzTujDNhA3O</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>ypJZ94cbSQO_H8/nCuyJtlH</eid>
+              <linked>
+                </linked>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>zIEg3scqY/J_LNOX0UXUR+M</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>mxuhEQXx3iP_qdInZhCjo9E</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>R0R/p0df8IJ_5Lz1Agorc1I</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>WUc6HVo8I1D_rhZI5dYAYSK</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <Tie>
+                  <eid>NUkOQ7j7K5P_e/S+AGIVYZK</eid>
+                  <linked>
+                    </linked>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <eid>LQdsqtQB6u_ENY2xAo2P3</eid>
         <voice>
-          <Rest>
-            <eid>hBxkxjEwWQM_9qFC841YsmJ</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <Harmony>
+            <root>21</root>
+            <name>m</name>
+            <eid>J44I9d/HsRH_hMksA0Xr3sB</eid>
+            <linked>
+              </linked>
+            </Harmony>
+          <Chord>
+            <eid>z1SN7YVSgVM_TM8fEMA9vjO</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>sUQx0MTQ2sG_z47iuR/3nKK</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>lg151UzlrdN_0nC4VVY/kTD</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>0V3GZ8F8VVD_2fAQwIyvSMM</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>vk79e15PrfP_qzos6QOltCJ</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>l7JOolX2ZUL_o/CTZHdqGf</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>+WWTzROkCFC_o/k1iBaiPlF</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>zePIyA0EvkJ_gAWDo0c7OaM</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>Jd3lDxhlZLD_Hd3EBeG1KhI</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>KBAFv6N0M+L_Wx2N2fO+gHK</eid>
+              <linked>
+                </linked>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>2MGL7CGvFPL_wvw6a1CpRDP</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>RNoVwATpxlO_5L9L2ujU/QD</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>0bSyB0ZjCxF_W9pQS2TOquH</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>kYBxOm8PuNB_LtREysblO2G</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <Tie>
+                  <eid>PecAhxRz09N_w2CuBaZ+SXL</eid>
+                  <linked>
+                    </linked>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <eid>ftvEhZ4RLYF_rkUabUMpm1H</eid>
         <voice>
-          <Rest>
-            <eid>f2QfaZytfO_U00ZpBbUc9O</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>mQNwV1kfpaG_8PctCUd7MbP</eid>
+          <Harmony>
+            <root>21</root>
+            <name>m</name>
+            <eid>54snBoqrtXF_ykR02V9q57J</eid>
             <linked>
-              <score>same</score>
-              <location>
-                <staves>-1</staves>
-                </location>
               </linked>
-            </BarLine>
+            </Harmony>
+          <Chord>
+            <eid>MRvmtFl3oIG_w/hYE7m01zO</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>YhgPJpY1nwP_+vFvEnKVnKI</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>q4yP1YxUmkD_yKgnLEy7PHH</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>YiOxVSKlrDH_g7ZaXaFzggI</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <eid>tziU8AZk/QN_Ulp9MDEtKjN</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <eid>MIXN3CXraHF_vLbR+rgz22O</eid>
+            <linked>
+              </linked>
+            <durationType>half</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -870,83 +1276,260 @@
         <voice>
           <RehearsalMark>
             <eid>Vg+87//7KiB_WWBrGSMokOB</eid>
-            <linkedMain/>
-            <text>C1</text>
-            </RehearsalMark>
-          <Rest>
-            <eid>BHN/DBoL00L_89U6DHfDS5K</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="16/4">
-        <multiMeasureRest>4</multiMeasureRest>
-        <eid>KiGyRtvSqwE_aGqSASjbskO</eid>
-        <startRepeat/>
-        <endRepeat>2</endRepeat>
-        <voice>
-          <RehearsalMark>
-            <eid>Fb1jyARcMqL_aUd0ocUDSdB</eid>
             <linked>
               <score>same</score>
               <location>
                 <staves>-1</staves>
+                <fractions>-1/1</fractions>
                 </location>
-              <indexDiff>-1</indexDiff>
               </linked>
             <text>C1</text>
             </RehearsalMark>
           <Rest>
-            <eid>nNuO2KdLpNL_TEM12dNuAdO</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>16/4</duration>
+            <eid>z5ZC+o+4FwH_z5uSHgwy5Y</eid>
+            <linked>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <durationType>quarter</durationType>
             </Rest>
+          <Rest>
+            <eid>voZuzgp2lIN_hvpM1VO5YFM</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <eid>MjqXb4FmYMJ_2J+KjlGBuSM</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>eI+ddkC59uC_07O+7ZztxvE</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>MXOPUxTc11D_czhkL5M0jdN</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>MK0iNqJKP/J_0vJcWuzlGHL</eid>
+              <linked>
+                </linked>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>E+COJuFEFLL_XuvQEQcG9oP</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>7dxHjgHzhsF_okBClCgMcLJ</eid>
+              <linked>
+                </linked>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>gaLxFYwHkSF_a50nslHTvUJ</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>tjWYGEQ+G6H_26eULl/mEiP</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <Tie>
+                  <eid>ZAQaEr9wDSH_Y1+DVmrhVnL</eid>
+                  <linked>
+                    </linked>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>8uSWxKtr6mF_o/XSV128xWO</eid>
+        <eid>q7pDTvbvNbH_tIZ4do8Nf4J</eid>
+        <voice>
+          <Chord>
+            <eid>QGFP6JfkdCF_e4lZGbf53wO</eid>
+            <linked>
+              </linked>
+            <durationType>whole</durationType>
+            <Note>
+              <eid>P2sw2zb7xfH_QyMpnrWs+GO</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>I4asysYF6TP_vipZLLMZwiE</eid>
         <voice>
           <Rest>
-            <eid>0SyeUOCO6cL_/yWnCAEPIBL</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <eid>SzYGkl+eZ8G_1KIgF2MGFf</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
             </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>FmoDieVuWwD_ccqo7GPFH7M</eid>
-        <voice>
           <Rest>
-            <eid>0aybRZy9ytN_rtDAjo6j3EF</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <eid>1YQUAHrE8OK_NFDKbaNkA7C</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
             </Rest>
+          <Chord>
+            <eid>BAN4cwTky4G_qWiWfNVsrpE</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>CBEXQ0GUAgJ_EnTM3ZA5hDJ</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>fS1+2YzvxxO_13JmbqK3aRI</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>MAStFuAKXUI_JxKqUpNBp4P</eid>
+              <linked>
+                </linked>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>uJqlXnLzJsM_LN03BlsuWnI</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>A9LFQKLCftI_3wTo2+EfE+</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>0VxSZQdKBdB_2i+KSpFUCCF</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>P4OaqPWfG4K_n1xOOROluEE</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <Tie>
+                  <eid>SUARfR9hXkO_QyG2PhukpYD</eid>
+                  <linked>
+                    </linked>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>RddPIeB+jKD_3Q+mktBKtWF</eid>
-        <endRepeat>2</endRepeat>
+        <eid>qfW2n7hYJeN_2oN6ZUgiFFP</eid>
         <voice>
-          <Rest>
-            <eid>eT/LuhfhCuO_kXK3ScaydTJ</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <Chord>
+            <eid>VHmcv2Vq+hM_d2pWq2EYWeH</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>jLedSt4rN1B_ZHx5JpNrD6B</eid>
+              <linked>
+                </linked>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>6q8Qff5doPI_TyssyjOHUQ</eid>
+            <linked>
+              </linked>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <eid>FfNMPYFvcoK_tLSm+StylsN</eid>
+              <linked>
+                </linked>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>SvcxpcjZ+GB_QC069o6w6tF</eid>
-        <startRepeat/>
+        <eid>6aanBS03KGD_lAt/ciK3q/C</eid>
         <voice>
           <RehearsalMark>
-            <eid>iVO9noKqYO_s4G0CT0upeJ</eid>
-            <linkedMain/>
+            <eid>CzKjAT40CFO_OaJWPVuzxoE</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
             <text>A2</text>
             </RehearsalMark>
           <Rest>
-            <eid>G4uUA8+mJ0F_rEVMM2o/qYK</eid>
+            <eid>A33FWEki+EC_Ozrsg0UqMN</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -954,22 +1537,20 @@
         </Measure>
       <Measure len="28/4">
         <multiMeasureRest>7</multiMeasureRest>
-        <eid>6uNTwT00cWE_yDWj+uxdHzD</eid>
-        <startRepeat/>
+        <eid>byCLaYYjV1N_EdqbQQz1VjG</eid>
         <voice>
           <RehearsalMark>
-            <eid>VgYfVpympnP_vuGzZjw5rcH</eid>
+            <eid>jOrPVIz6OLH_lG+QaSwPmeN</eid>
             <linked>
-              <score>same</score>
               <location>
                 <staves>-1</staves>
                 </location>
-              <indexDiff>-1</indexDiff>
+              <indexDiff>1</indexDiff>
               </linked>
             <text>A2</text>
             </RehearsalMark>
           <Rest>
-            <eid>ynSM7Bj8i8F_N8UifUSYqZB</eid>
+            <eid>2TqtIMGvEVI_9OCZnREk5BK</eid>
             <placement>above</placement>
             <durationType>measure</durationType>
             <duration>28/4</duration>
@@ -977,74 +1558,91 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>XVE9A4DCxeD_RQ1jMKZUp+L</eid>
+        <eid>deTb9eZ8jmL_YVehaqtmRk</eid>
         <voice>
           <Rest>
-            <eid>E7BB2IERBH_i3ykzhgkKgP</eid>
+            <eid>nUaKl6RKR+K_wQjOROaoRCM</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>L/ETGmLSx8B_CbhEN34pwJC</eid>
+        <eid>xAzEcrXPAbH_1B5MwbZI20O</eid>
         <voice>
           <Rest>
-            <eid>i4r0O0GVcHO_ash83L/715C</eid>
+            <eid>bG2F75VjvnN_edHLM1gY6wN</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>qrxt2y6gzCJ_MlsXLiVWOqP</eid>
+        <eid>76WBFCZ2MDG_qwztJuOlFbF</eid>
         <voice>
           <Rest>
-            <eid>YqXOVZ1dG0E_0GBf4b9oMc</eid>
+            <eid>eCxs3OU7i5I_HCWkHpQK1BN</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>wzUqsM24Q6O_o021kKgnGYJ</eid>
+        <eid>BZFIEwnTT/M_u5nqEGh33eH</eid>
         <voice>
           <Rest>
-            <eid>ydNbE1A2ZgG_YQmefRJBp9M</eid>
+            <eid>MigEnNccArM_VUvikoxu+bH</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>ecN45yeF4c_9p88qdXxHJK</eid>
+        <eid>ay2Biknb2LG_XnoZ2PXcJG</eid>
         <voice>
           <Rest>
-            <eid>W6RkPzucirN_iJ0oyoCZJQJ</eid>
+            <eid>mTtIW4ijrNH_1r/2cQFckG</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>FZ4DvxB80GC_7ahZD3WFx5H</eid>
+        <eid>dfMXvJgf4YK_+COTGDc3cIE</eid>
         <voice>
           <Rest>
-            <eid>MQIlsthDrw_dBzwJaJS+pN</eid>
+            <eid>ZckLyDU/KrI_rLbWnFWmD/P</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>TkziwLw7OSJ_3SVdvJjdmuI</eid>
-        <endRepeat>2</endRepeat>
+        <eid>4K+9RWb+psM_LsurNxEi1BO</eid>
         <voice>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
-              <eid>pq0RlXRWqwB_hrME/NkjfPM</eid>
+              <eid>sHHvQFCQQLK_KQbgaQCUfHB</eid>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
               <endings>1</endings>
               </Volta>
             <next>
@@ -1054,14 +1652,16 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>xkS8sr1f7ZI_jxE1dL+R/4</eid>
+            <eid>vv8F1M0Y5/M_whImvddQ7EC</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>VWEhy8FL2o_RkWOfUP+H1J</eid>
+        <eid>/hoUbbooyuE_nPriAC1CqLJ</eid>
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -1074,7 +1674,13 @@
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2.</beginText>
-              <eid>KuSgtShRoyE_CK2/bKJvQXN</eid>
+              <eid>Ha4Lx5ti6pF_fW6/95svvQ</eid>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
               <endings>2</endings>
               </Volta>
             <next>
@@ -1084,22 +1690,25 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>V7HXZAVpeHL_M/A+snQKAAP</eid>
+            <eid>tqjrMIunnxI_9WFR30PkuZN</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>bnuzwy9hkl_vBHNkQK2rdC</eid>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
-        <eid>8laXbvq1tdD_dQGK02DkvmD</eid>
+        <eid>iApsQ7se0vP_43jFgz1vOqB</eid>
         <voice>
           <RehearsalMark>
-            <eid>YmNBuje7+nB_0LBOP/CBHxP</eid>
-            <linkedMain/>
+            <eid>Ac8RZ8lgZRP_mEzjJrmCI+I</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
             <text>B2</text>
             </RehearsalMark>
           <Spanner type="Volta">
@@ -1110,7 +1719,9 @@
               </prev>
             </Spanner>
           <Rest>
-            <eid>j5qY6506ZMK_2c9jWv2xBUI</eid>
+            <eid>pIIhf3zyV9_zl1I27T50EL</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1118,21 +1729,20 @@
         </Measure>
       <Measure len="32/4">
         <multiMeasureRest>8</multiMeasureRest>
-        <eid>3L3DD2I6A8N_D2z1cX01f2G</eid>
+        <eid>ELnL+64DHnP_ysebpejeRjE</eid>
         <voice>
           <RehearsalMark>
-            <eid>7xgDq8JE1RH_l+JH/6GTh2O</eid>
+            <eid>+tcSkREtLxG_huler4buX0C</eid>
             <linked>
-              <score>same</score>
               <location>
                 <staves>-1</staves>
                 </location>
-              <indexDiff>-1</indexDiff>
+              <indexDiff>1</indexDiff>
               </linked>
             <text>B2</text>
             </RehearsalMark>
           <Rest>
-            <eid>F1xau7aTJiO_HsnWh24bg+O</eid>
+            <eid>EqZ1lXLru1D_+EkHEQ8J7EB</eid>
             <placement>above</placement>
             <durationType>measure</durationType>
             <duration>32/4</duration>
@@ -1140,96 +1750,106 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>y6Wv/2qHsYE_6uK/6B89o7H</eid>
+        <eid>mMcS2E5nUFD_Jw8VgppqSdL</eid>
         <voice>
           <Rest>
-            <eid>ASvgUqj7rpI_m3TpzZAJb9F</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>Jsxy7Ef4+DP_MBS+lIMhKEP</eid>
-        <voice>
-          <Rest>
-            <eid>2wwaEaQ1rtL_bqb7PcaLpBO</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>lhlzoPAHK6C_eGozkipOyUH</eid>
-        <voice>
-          <Rest>
-            <eid>SF4t7WES1iK_2V2HSWwiukK</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>50UUZgAfFNM_rPNK67Kg5K</eid>
-        <voice>
-          <Rest>
-            <eid>XjRQJOQQLMN_ggeESMgkgEM</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>ZyqTBsdDksE_xmpRKCfsDSE</eid>
-        <voice>
-          <Rest>
-            <eid>vTfT8iPp64N_Nk88iKU6MwP</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>xlk4L037OZB_6nX7N5aQrbK</eid>
-        <voice>
-          <Rest>
-            <eid>dLGxo344jdG_ytUHgg34atM</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>OmBi76wavSK_NkD7Pc2x54E</eid>
-        <voice>
-          <Rest>
-            <eid>6hWuPmpIKsK_H1zm5m/fumF</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>8VThvPgEUgO_aRdctgYa+qD</eid>
+            <eid>Xi48TyFUw5L_OJQzl7hvrXE</eid>
             <linked>
-              <score>same</score>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>9+BcK5TftkP_E/PMaErUUVC</eid>
+        <voice>
+          <Rest>
+            <eid>pGo77UGiX/J_UMhAJKWkiMG</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>6lhgxJ8KGPL_e+LXZxMuduP</eid>
+        <voice>
+          <Rest>
+            <eid>+hVUfJj9EXM_mzGmJziULU</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>F8p7793NW1D_0pcaajok3YM</eid>
+        <voice>
+          <Rest>
+            <eid>6bdFgjgEkaI_noz+irQ11w</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>7NLtU19bhNB_CYNl4hJfTmG</eid>
+        <voice>
+          <Rest>
+            <eid>bbOO28LvnFD_eTCesO23NPE</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>rBtR0kJ5afG_luY/EcGfDaK</eid>
+        <voice>
+          <Rest>
+            <eid>XPeF0OsEPMG_eW3XoYLai2O</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>5L0zHiD3A7_6ajbjKlK4NG</eid>
+        <voice>
+          <Rest>
+            <eid>fwYM3fLzSGP_4CN5UJax3LD</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>UbEJlLQfyQN_riH1JhEnxbC</eid>
+        <voice>
+          <RehearsalMark>
+            <eid>5YW6RT742xB_TUU4dxd7m7N</eid>
+            <linked>
               <location>
                 <staves>-1</staves>
                 </location>
+              <indexDiff>1</indexDiff>
               </linked>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>fkmnnyvtNnK_Dk2OVWuDq9J</eid>
-        <startRepeat/>
-        <voice>
-          <RehearsalMark>
-            <eid>Aba+E5X8eKG_nQUwUbjss0P</eid>
-            <linkedMain/>
             <text>C2</text>
             </RehearsalMark>
           <Rest>
-            <eid>ka790ICWMMB_c/Kax4QoTnE</eid>
+            <eid>QgVul5ohMPC_sAan6wvE75H</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1237,23 +1857,20 @@
         </Measure>
       <Measure len="16/4">
         <multiMeasureRest>4</multiMeasureRest>
-        <eid>sE5/Tq6RnxD_Bw/jOX9NunB</eid>
-        <startRepeat/>
-        <endRepeat>2</endRepeat>
+        <eid>DuRmo7A0OxF_IwqToiZHEJE</eid>
         <voice>
           <RehearsalMark>
-            <eid>rK+/0YGo0cK_jTC+F69mEgH</eid>
+            <eid>S+6L3uQgiiN_UTnTHsqubBB</eid>
             <linked>
-              <score>same</score>
               <location>
                 <staves>-1</staves>
                 </location>
-              <indexDiff>-1</indexDiff>
+              <indexDiff>1</indexDiff>
               </linked>
             <text>C2</text>
             </RehearsalMark>
           <Rest>
-            <eid>7ki+/ujHJT_YByaX4L73zK</eid>
+            <eid>st4Ev1fKpHL_UQU+G173ISG</eid>
             <placement>above</placement>
             <durationType>measure</durationType>
             <duration>16/4</duration>
@@ -1261,169 +1878,198 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>r3bU/NTaYXE_hotOKWUZgfK</eid>
+        <eid>8bVQBRxBrWI_MmGGZv2XRUK</eid>
         <voice>
           <Rest>
-            <eid>jF0xC6txhOF_LA0nNxcKnNB</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>GeJIPDaTrCM_l7fWImnmOqG</eid>
-        <voice>
-          <Rest>
-            <eid>qVt+Ak81YWB_oJd4LcP9oEL</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>DIc36CWA4yC_5F3hdodVyjH</eid>
-        <endRepeat>2</endRepeat>
-        <voice>
-          <Rest>
-            <eid>0hGOZoKf+jC_02OASgvR8aI</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>YiqnovwIziF_GM46Q7kRE+I</eid>
-        <startRepeat/>
-        <voice>
-          <RehearsalMark>
-            <eid>dPQp/RBBJ1G_qm5F1UgaSgC</eid>
-            <linkedMain/>
-            <text>A3</text>
-            </RehearsalMark>
-          <Rest>
-            <eid>BvkBWubfPlB_kgb29Wp1dkC</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="32/4">
-        <multiMeasureRest>8</multiMeasureRest>
-        <eid>jl4mvkkagz_VQvcWjy1bhL</eid>
-        <startRepeat/>
-        <endRepeat>2</endRepeat>
-        <voice>
-          <RehearsalMark>
-            <eid>ZsRDzod4NJD_IpzcHAawv+C</eid>
+            <eid>cbaShiY+pYL_3UTcXek6ldE</eid>
             <linked>
-              <score>same</score>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>fHja1awy00P_DCu6beK1z2O</eid>
+        <voice>
+          <Rest>
+            <eid>oJX0cvLynrH_ahh7URlEJwJ</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>gXVX5vMJehF_I3bz0zY+cSF</eid>
+        <voice>
+          <Rest>
+            <eid>OphJb/lz5kN_TVyMKqYMAoL</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>FOiGetm4D4E_WYgg9gd8ceO</eid>
+        <voice>
+          <RehearsalMark>
+            <eid>ZWKbKmlWOgN_V8T9Wgyj00L</eid>
+            <linked>
               <location>
                 <staves>-1</staves>
                 </location>
-              <indexDiff>-1</indexDiff>
+              <indexDiff>1</indexDiff>
               </linked>
             <text>A3</text>
             </RehearsalMark>
           <Rest>
-            <eid>nK6bszoteyP_FvJF5iMXf4I</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>32/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>T9UvTry/rE_JIia5+PoJpP</eid>
-        <voice>
-          <Rest>
-            <eid>ZrSU4VQ0nEP_c893/yl+FnN</eid>
+            <eid>CiAngaQCWOE_ssU4v7V4P+M</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
-        <eid>uaHG5XGzJEF_HgaETnsvSXK</eid>
-        <voice>
-          <Rest>
-            <eid>YOsY9ABLIeL_VPMZ1gPxolD</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>1qosXWG/g7P_a1unPXKqHfD</eid>
-        <voice>
-          <Rest>
-            <eid>X4Z6jeZSj+J_oEFVd9g+0RM</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>KEbz+ngB1PG_S0oaV612PpF</eid>
-        <voice>
-          <Rest>
-            <eid>vnmw96a4npM_za23k8ACtuO</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>uT4eUdiEQqH_MIRPdvSmWiB</eid>
-        <voice>
-          <Rest>
-            <eid>8lgDidzzwnB_HnynqitXlGP</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>rNXYlOUlEuB_Tx7ZsnTe/BC</eid>
-        <voice>
-          <Rest>
-            <eid>+BOe9J+aOlB_woUOmU9x/MP</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>lnmXpRU7NeP_bjJF8kuXJyG</eid>
-        <endRepeat>2</endRepeat>
-        <voice>
-          <Rest>
-            <eid>KSEzdzZFXvE_KKkey5fKiqB</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>uTd8RrjBqGL_oyFvq4P3k7G</eid>
-        <voice>
-          <Rest>
-            <eid>7NbFU/XY03F_4WAsfVJPEjP</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>QEMD1WMa1OH_yeOSDI9oFTE</eid>
-        <startRepeat/>
+      <Measure len="36/4">
+        <multiMeasureRest>9</multiMeasureRest>
+        <eid>kW8hp1no4GN_T6Fr1BOFrT</eid>
         <voice>
           <RehearsalMark>
-            <eid>P7ctIpE3u/H_I3AJ6/7O3xF</eid>
-            <linkedMain/>
+            <eid>Ba0eIzX9XGK_o/rhdydkmbF</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>A3</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>Rl2APwSrLVM_r9cabrpGTBE</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>36/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>K7YK50k5sAC_L2d6enQR3uJ</eid>
+        <voice>
+          <Rest>
+            <eid>x7VLAmvdItJ_3ESdR7JHm9M</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>zI9+foNOUPI_iij+5XuoPrL</eid>
+        <voice>
+          <Rest>
+            <eid>nas0V8vF+pF_AdL+lSBk8H</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>E6raHsEod4I_gNcQy/MNShF</eid>
+        <voice>
+          <Rest>
+            <eid>HE0/09BB2UG_EaBN3h7Zb+C</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>mE2kubdjmTI_AFxbF2US0qG</eid>
+        <voice>
+          <Rest>
+            <eid>4zrnLJqibJB_YvKm3waSrZM</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>pESvWNpJAjG_MWRlFJrGJoB</eid>
+        <voice>
+          <Rest>
+            <eid>RRUmhtaAg+C_W4lAe7FWJdI</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>EWVrEmuJU6_rRj9FShS0VP</eid>
+        <voice>
+          <Rest>
+            <eid>M7GWE6lmV6K_5mv0wQ+NiMG</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>FC2o7qrezVD_sI31ty0kAxH</eid>
+        <voice>
+          <Rest>
+            <eid>9UqR/BbNfqG_eILYZ8SUG1E</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>nbVSVuMkLCJ_itildFdzvaI</eid>
+        <voice>
+          <Rest>
+            <eid>imdLZXvKujK_UqtdSHiMPpN</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>9AO5WilzGwF_/EOxBaumNHB</eid>
+        <voice>
+          <RehearsalMark>
+            <eid>Q1fCSxihQuN_gdu9IY0R0dK</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
             <text>B3</text>
             </RehearsalMark>
           <Rest>
-            <eid>h4BloUznwYJ_H/Grp3OjJ5N</eid>
+            <eid>xLkRQRbjaEC_uOlNx9kr1yL</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1431,22 +2077,20 @@
         </Measure>
       <Measure len="28/4">
         <multiMeasureRest>7</multiMeasureRest>
-        <eid>HHjSSY9D3VM_GElBG9kt6QB</eid>
-        <startRepeat/>
+        <eid>OY6eSZ33aeF_7N61K2gsZ4L</eid>
         <voice>
           <RehearsalMark>
-            <eid>lRHws9XiMDN_ETtYg0nTHwI</eid>
+            <eid>sVljAmVYBLD_Kx3nCmOfQ1F</eid>
             <linked>
-              <score>same</score>
               <location>
                 <staves>-1</staves>
                 </location>
-              <indexDiff>-1</indexDiff>
+              <indexDiff>1</indexDiff>
               </linked>
             <text>B3</text>
             </RehearsalMark>
           <Rest>
-            <eid>oTu3u0ZQYAC_fvIa6bhcXKF</eid>
+            <eid>+A5eO0ydeXH_B73nXNoTnNL</eid>
             <placement>above</placement>
             <durationType>measure</durationType>
             <duration>28/4</duration>
@@ -1454,74 +2098,91 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>YEPtB6Y5kEC_0jvM531otbF</eid>
+        <eid>EWphKlM6OID_CLJZtLPzMyK</eid>
         <voice>
           <Rest>
-            <eid>LxOupthac0M_EmnpdnjAM9M</eid>
+            <eid>8cka9xWwyBG_7t8LFYfQAPC</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>ZxZQ8OqEo5G_F/WX/wQugxC</eid>
+        <eid>/pqqFJKR5BM_sSRbwFrpQ8K</eid>
         <voice>
           <Rest>
-            <eid>ILp/NNfkAgO_wk4+UwqbP9N</eid>
+            <eid>3jmkLsMVtfK_uq16MdDyeF</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>gkcWVa06tvF_cwIGxdzhkCN</eid>
+        <eid>a907OirjsjI_sbGrx0CuuZI</eid>
         <voice>
           <Rest>
-            <eid>RKkU+WWE2+E_sqTdQDvAyUI</eid>
+            <eid>OkxL/sHTPWO_1AJDK3bPUCD</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>7EYR5hfsBvN_oXzsfiW7zUC</eid>
+        <eid>xIFMTX+MpuP_iVvDapBTU2</eid>
         <voice>
           <Rest>
-            <eid>Ok8mXtTf3RO_UQ8EK/KkGkL</eid>
+            <eid>EgvxSsetliP_bEGbsdooeGP</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>e9Ih8/ntB1E_PovXXaQY/KF</eid>
+        <eid>12jF2cPLBUO_l8P8xfazqJL</eid>
         <voice>
           <Rest>
-            <eid>3miiXrTXRUD_fb7qDTRpchD</eid>
+            <eid>CulmcHa1y1G_RtOodWHyYlI</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>3jnDXZK7ltB_v9tN/UB2hPP</eid>
+        <eid>fjNs9THvSPJ_bihVc22HOnB</eid>
         <voice>
           <Rest>
-            <eid>N39JERrncsO_X8syrKwUh8B</eid>
+            <eid>Vj9RWuzgYcL_jk68pBZtsQC</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>1w6WlbqueTP_sDBZlVTKV1N</eid>
-        <endRepeat>2</endRepeat>
+        <eid>k5xkY5ty8hN_lAc73Muv0k</eid>
         <voice>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
-              <eid>5lfcGNE8ioG_JQQE/SS+45I</eid>
+              <eid>8pgGsjUm/wI_MUoXPzs2S0B</eid>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
               <endings>1</endings>
               </Volta>
             <next>
@@ -1531,14 +2192,16 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>Xb92GdF2Br_YCDEts/3yoJ</eid>
+            <eid>tg8MC427sgO_TICuVo9CIrB</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>U2dlaMckN0D_DoRM2R4yk3M</eid>
+        <eid>P3PYchxdx1I_KVsgOgfLPDN</eid>
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -1551,7 +2214,13 @@
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2.</beginText>
-              <eid>Iref0H+iwIM_FlaVt7s6R4M</eid>
+              <eid>TpCweebEC8F_JdJa2i6s0NO</eid>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
               <endings>2</endings>
               </Volta>
             <next>
@@ -1561,19 +2230,25 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>YJnqeFFOoq_iSvbmMQ6HQC</eid>
+            <eid>j5qeY3J2OAJ_cQZ+shLsglP</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>hacjRrf9YUB_fLxK75TL7f</eid>
-        <startRepeat/>
+        <eid>HOLnBKzZSBJ_WJXIjkBNsLC</eid>
         <voice>
           <RehearsalMark>
-            <eid>gbh1NREJQW_GvjQ9Qoi9dD</eid>
-            <linkedMain/>
+            <eid>o46QYZDSE+I_9fCiGapEvvE</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
             <text>C3</text>
             </RehearsalMark>
           <Spanner type="Volta">
@@ -1584,7 +2259,9 @@
               </prev>
             </Spanner>
           <Rest>
-            <eid>TOfp2ejCGFB_L8AO0EfAaAJ</eid>
+            <eid>GOwxVq7jAlO_vUP9Wzm9H0M</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1592,22 +2269,20 @@
         </Measure>
       <Measure len="12/4">
         <multiMeasureRest>3</multiMeasureRest>
-        <eid>gfHxmlu2jvO_HUKX6L2JvaN</eid>
-        <startRepeat/>
+        <eid>jaSzaRHHCDK_Sq10xjgXAAN</eid>
         <voice>
           <RehearsalMark>
-            <eid>E/SZYsWKuqI_wbv6q/XNWH</eid>
+            <eid>IjdOP6lpLEP_l3pFdxa+EWF</eid>
             <linked>
-              <score>same</score>
               <location>
                 <staves>-1</staves>
                 </location>
-              <indexDiff>-1</indexDiff>
+              <indexDiff>1</indexDiff>
               </linked>
             <text>C3</text>
             </RehearsalMark>
           <Rest>
-            <eid>zgqUxEOGSJG_vZdf9iN2u3O</eid>
+            <eid>SfuCFGBV6VE_YLCFx68MI5E</eid>
             <placement>above</placement>
             <durationType>measure</durationType>
             <duration>12/4</duration>
@@ -1615,34 +2290,43 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>/yLrZRMX8VK_pFC23Ax5cMG</eid>
+        <eid>G/0PK3ZdhxD_nYbt4RANzNK</eid>
         <voice>
           <Rest>
-            <eid>WcLPXyTEp0N_HoY7OiD3eHB</eid>
+            <eid>aFMPj7PSVGE_bmA5gM5LWjO</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>PaSXPEK3T3H_aSSR78mjm+B</eid>
+        <eid>8sjXEMBJd0K_5K/o3zunjOO</eid>
         <voice>
           <Rest>
-            <eid>D1mjfQQb0TL_8LUGrXx85CH</eid>
+            <eid>UNJhCHIEMPI_wCYjUo/FSYM</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>nLE81x5V3bK_i+vwjMIQhOG</eid>
-        <endRepeat>2</endRepeat>
+        <eid>ZQJ/9E+JDVP_x2r5nn3abcE</eid>
         <voice>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
-              <eid>YsU0BT08Q2G_BBgUupoFBcN</eid>
+              <eid>Jv3xatK3giO_PRfSj8UIE7H</eid>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
               <endings>1</endings>
               </Volta>
             <next>
@@ -1652,14 +2336,16 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>rq4FwZDWLQ_6pp9w/w93nC</eid>
+            <eid>v5fVGzYHjeL_q+kKP4RAd0G</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>cRSkVcbkzFL_Pi8qE+hobmJ</eid>
+        <eid>QagUgCeqV9K_x4j1Ineu+NG</eid>
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -1671,7 +2357,13 @@
           <Spanner type="Volta">
             <Volta>
               <beginText>2.</beginText>
-              <eid>j+ejQ+JkVm_v5A2k0EfgdM</eid>
+              <eid>Kste6Nb15nE_wl529OySPTH</eid>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
               <endings>2</endings>
               </Volta>
             <next>
@@ -1681,7 +2373,9 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>ZltgoUi2U_wmfo66ttPPI</eid>
+            <eid>5RoDGVJz4k_zC8XNXDJICB</eid>
+            <linked>
+              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
