@@ -5,26 +5,6 @@
   <Score>
     <eid>n1cAX5gulGD_Lt7y1fJLenC</eid>
     <name>Electric Piano</name>
-    <Tracklist sTrack="0" dstTrack="16"/>
-    <Tracklist sTrack="1" dstTrack="17"/>
-    <Tracklist sTrack="2" dstTrack="18"/>
-    <Tracklist sTrack="3" dstTrack="19"/>
-    <Tracklist sTrack="24" dstTrack="8"/>
-    <Tracklist sTrack="25" dstTrack="9"/>
-    <Tracklist sTrack="26" dstTrack="10"/>
-    <Tracklist sTrack="27" dstTrack="11"/>
-    <Tracklist sTrack="28" dstTrack="12"/>
-    <Tracklist sTrack="29" dstTrack="13"/>
-    <Tracklist sTrack="30" dstTrack="14"/>
-    <Tracklist sTrack="31" dstTrack="15"/>
-    <Tracklist sTrack="32" dstTrack="0"/>
-    <Tracklist sTrack="33" dstTrack="1"/>
-    <Tracklist sTrack="34" dstTrack="2"/>
-    <Tracklist sTrack="35" dstTrack="3"/>
-    <Tracklist sTrack="36" dstTrack="4"/>
-    <Tracklist sTrack="37" dstTrack="5"/>
-    <Tracklist sTrack="38" dstTrack="6"/>
-    <Tracklist sTrack="39" dstTrack="7"/>
     <initialPartId>6</initialPartId>
     <Division>480</Division>
     <Style>
@@ -1446,6 +1426,28 @@
       <Measure>
         <eid>trdPQq7im/I_fue2LqSXBFL</eid>
         <voice>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <eid>K3XabuDue4K_PQT9JmdB3JN</eid>
+            <linked>
+              <location>
+                <staves>-8</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>GOOlLwjh9EJ_nWrT4eEwUtB</eid>
+            <linked>
+              <location>
+                <staves>-8</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>בית ראשון</text>
+            </RehearsalMark>
           <Chord>
             <eid>gXWTYcNhyNP_H+uCet6+k4O</eid>
             <linked>
@@ -15726,7 +15728,6 @@
           <Rest>
             <eid>GrzJbuPdAoM_wM6nkWGcbhI</eid>
             <linked>
-              <indexDiff>1</indexDiff>
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -18936,13 +18937,11 @@
             <velocity>64</velocity>
             <eid>gAnsh1eVS7I_zCqyhgBwtR</eid>
             <linked>
-              <indexDiff>1</indexDiff>
               </linked>
             </Dynamic>
           <Rest>
             <eid>l48NP3YGNJB_k1GhS6V4btJ</eid>
             <linked>
-              <indexDiff>1</indexDiff>
               </linked>
             <durationType>16th</durationType>
             </Rest>
@@ -24580,7 +24579,7 @@
           <Rest>
             <eid>5zdfPKHY/wM_vGXgDo1KyjO</eid>
             <linked>
-              <indexDiff>5</indexDiff>
+              <indexDiff>4</indexDiff>
               </linked>
             <durationType>quarter</durationType>
             </Rest>
@@ -25674,6 +25673,7 @@
           <Rest>
             <eid>EuqvnnINIeE_iF5RFXfiUVN</eid>
             <linked>
+              <indexDiff>2</indexDiff>
               </linked>
             <durationType>half</durationType>
             </Rest>

@@ -1354,6 +1354,28 @@
       <Measure>
         <eid>6igDOhXPSMC_2LHXdHeVn0M</eid>
         <voice>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <eid>n1kk6gzkBS_jqSqgag4o2E</eid>
+            <linked>
+              <location>
+                <staves>-8</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>5yPpCrr9WZ_SrGfs+ewZCO</eid>
+            <linked>
+              <location>
+                <staves>-8</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>בית ראשון</text>
+            </RehearsalMark>
           <Chord>
             <eid>OSo6UcC2MBG_f2lCorvVzSO</eid>
             <linked>

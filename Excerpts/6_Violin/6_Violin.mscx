@@ -293,12 +293,6 @@
         <voice>
           <RehearsalMark>
             <eid>dkMz1g+/kp_o9XXao5/FjH</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-1</staves>
-                </location>
-              </linked>
             <text>Intro</text>
             </RehearsalMark>
           <Rest>
@@ -371,6 +365,14 @@
       <Measure>
         <eid>i926eBhrYwE_k9rH9H88YoG</eid>
         <voice>
+          <PlayTechAnnotation>
+            <playTechType>tremolo</playTechType>
+            <eid>/TKl1yZ45IK_G+NX9zH/9bD</eid>
+            <linked>
+              </linked>
+            <style>expression</style>
+            <text>tremolo</text>
+            </PlayTechAnnotation>
           <Rest>
             <eid>wDc/VYl5dWK_43fxGUKylYO</eid>
             <durationType>measure</durationType>
@@ -379,18 +381,34 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>BYSUQZcJYXJ_MsAAjWCz8uK</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-1</staves>
-                </location>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
       <Measure>
         <eid>Z9v65OZkPTN_9qOfsXTDj/O</eid>
         <voice>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <eid>jTyLqjIp5zN_nMn/3AkeCw</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>MvyQFX28BJN_7MeyBkptC8H</eid>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>בית ראשון</text>
+            </RehearsalMark>
           <Chord>
             <eid>Z6XBAgnrcJB_MQWDJQ2clDF</eid>
             <durationType>half</durationType>
@@ -685,12 +703,6 @@
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
               <eid>x9JfreBmrBB_szb8Ol0W1nK</eid>
-              <linked>
-                <location>
-                  <staves>-1</staves>
-                  </location>
-                <indexDiff>1</indexDiff>
-                </linked>
               <endings>1</endings>
               </Volta>
             <next>
@@ -763,12 +775,6 @@
               <endHookType>1</endHookType>
               <beginText>2.</beginText>
               <eid>QsiHy+HUgDK_fBiQW0tqSjP</eid>
-              <linked>
-                <location>
-                  <staves>-1</staves>
-                  </location>
-                <indexDiff>1</indexDiff>
-                </linked>
               <endings>2</endings>
               </Volta>
             <next>
@@ -1878,12 +1884,6 @@
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
               <eid>teQlmISryaI_D+5LtwWwLRM</eid>
-              <linked>
-                <location>
-                  <staves>-1</staves>
-                  </location>
-                <indexDiff>1</indexDiff>
-                </linked>
               <endings>1</endings>
               </Volta>
             <next>
@@ -1975,12 +1975,6 @@
             <Volta>
               <beginText>2.</beginText>
               <eid>7TuNSIdUZaC_Ci8i67FaHbP</eid>
-              <linked>
-                <location>
-                  <staves>-1</staves>
-                  </location>
-                <indexDiff>1</indexDiff>
-                </linked>
               <endings>2</endings>
               </Volta>
             <next>
@@ -3036,11 +3030,6 @@
         <voice>
           <RehearsalMark>
             <eid>BskqsIsQgVK_igmL4xCKOWC</eid>
-            <linked>
-              <location>
-                <staves>-1</staves>
-                </location>
-              </linked>
             <text>A3 Platinum</text>
             </RehearsalMark>
           <Dynamic>
@@ -3316,12 +3305,6 @@
         <voice>
           <RehearsalMark>
             <eid>Q1fCSxihQuN_gdu9IY0R0dK</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-1</staves>
-                </location>
-              </linked>
             <text>B3</text>
             </RehearsalMark>
           <Spanner type="Volta">
@@ -3511,11 +3494,6 @@
         <voice>
           <RehearsalMark>
             <eid>4s8d9VvVvNF_QTy30dOfpRB</eid>
-            <linked>
-              <location>
-                <staves>-1</staves>
-                </location>
-              </linked>
             <text>Vamp</text>
             </RehearsalMark>
           <Rest>
@@ -3797,18 +3775,11 @@
             <tempo>1.666667</tempo>
             <followText>1</followText>
             <eid>nv0T2I1O3UL_oQqFOEbIZ2D</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              <indexDiff>4</indexDiff>
-              </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 100</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 100</text>
             </Tempo>
           <Rest>
             <eid>IWHVLa3gVfD_cCxgMlSxI1D</eid>
             <linked>
-              <indexDiff>2</indexDiff>
               </linked>
             <durationType>quarter</durationType>
             </Rest>
@@ -3831,6 +3802,7 @@
           <RehearsalMark>
             <eid>aIebhLak7OH_p4eCa9Hy1NH</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -3853,6 +3825,7 @@
           <RehearsalMark>
             <eid>eA16uxH0ce_07cLX0KbJ+</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -3959,11 +3932,6 @@
         <voice>
           <RehearsalMark>
             <eid>3eiiZDyO4hC_6HnUgL0k+nL</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
             <text>Intro</text>
             </RehearsalMark>
           <Rest>
@@ -4542,11 +4510,6 @@
         <voice>
           <RehearsalMark>
             <eid>P8q7yr99I8E_I7zXYGmzUxE</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
             <text>A1</text>
             </RehearsalMark>
           <Chord>
@@ -4715,6 +4678,7 @@
           <RehearsalMark>
             <eid>AmRv8Klkr4G_cnMjroFw7GL</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -4737,6 +4701,7 @@
           <RehearsalMark>
             <eid>GAe8Qf9+rj_uiH/P+F+yVD</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -4974,17 +4939,11 @@
         <voice>
           <RehearsalMark>
             <eid>tCSdju+wLrG_Rd/ZnMGwoX</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
             <text>C1</text>
             </RehearsalMark>
           <Rest>
             <eid>RP3JhL5bY0N_QVB41MgMVsN</eid>
             <linked>
-              <indexDiff>1</indexDiff>
               </linked>
             <durationType>quarter</durationType>
             </Rest>
@@ -5211,6 +5170,7 @@
           <RehearsalMark>
             <eid>Q2LBmw8yqmD_+jkLLGjdIGL</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -5232,6 +5192,7 @@
           <RehearsalMark>
             <eid>tsTmxImZ+aJ_4ETyW3tPP1F</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -5748,6 +5709,7 @@
           <RehearsalMark>
             <eid>Bg36c2EbHNH_A62RUuxXpBB</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -5769,6 +5731,7 @@
           <RehearsalMark>
             <eid>fwwTspqP/1D_OXpI9yA1itI</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -6001,6 +5964,7 @@
           <RehearsalMark>
             <eid>Mz2SGXwHCaK_lMDzAwkIp7I</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -6022,6 +5986,7 @@
           <RehearsalMark>
             <eid>p6OnxAkvfnO_0EB3vmzkAQD</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -6158,6 +6123,7 @@
           <RehearsalMark>
             <eid>mIUAZv8al3P_iDkVF/MbraG</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -6179,6 +6145,7 @@
           <RehearsalMark>
             <eid>iHd3qXmUrBM_b7OiNRuFq7</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
@@ -6633,11 +6600,6 @@
         <voice>
           <RehearsalMark>
             <eid>xp6Xsj+zGPD_5DzvkKSMNqC</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
             <text>B3</text>
             </RehearsalMark>
           <Rest>

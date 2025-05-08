@@ -243,8 +243,8 @@
         </Staff>
       <trackName>סינתיסייזר בס</trackName>
       <Instrument id="bass-synthesizer">
-        <longName>סינתיסייזר בס</longName>
-        <shortName>סינת.</shortName>
+        <longName>Synthisizer</longName>
+        <shortName>Synth.</shortName>
         <trackName>סינתיסייזר בס</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -679,16 +679,10 @@
           <text>שונא את הקריפר</text>
           </Text>
         <Text>
-          <eid>rxh8bA0xA8J_6huz+j/5o9M</eid>
-          <linkedMain/>
-          <style>subtitle</style>
-          <text>צארט</text>
-          </Text>
-        <Text>
           <eid>24IOyYBG77E_yZTcM4/6npO</eid>
           <linkedMain/>
           <style>composer</style>
-          <text>ריהאנה וגיא טיוי</text>
+          <text>יואב גל המלאך</text>
           </Text>
         </VBox>
       <Measure len="3/4">
@@ -708,7 +702,7 @@
             <followText>1</followText>
             <eid>AUnqFtu0ZtF_QcG/lyacNpL</eid>
             <linkedMain/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 100</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 100</text>
             </Tempo>
           <Rest>
             <eid>si/kPjo5cYN_+xZ46d75KxC</eid>
@@ -732,7 +726,7 @@
           <RehearsalMark>
             <eid>i52TkMX7nTG_Jo93bI6ng/D</eid>
             <linkedMain/>
-            <text>Sex Intro</text>
+            <text>אינטרו סקס</text>
             </RehearsalMark>
           <Rest>
             <eid>6ybNPwsLDID_2hfcaiBCIeC</eid>
@@ -919,7 +913,7 @@
           <RehearsalMark>
             <eid>YWXO3UbZmZI_YuHk85F9N2M</eid>
             <linkedMain/>
-            <text>Intro</text>
+            <text>אינטרו</text>
             </RehearsalMark>
           <Harmony>
             <root>21</root>
@@ -1689,6 +1683,18 @@
             <eid>pDW/ePXTo0B_E36lzQ34tKJ</eid>
             <linkedMain/>
             </Harmony>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <eid>e05BD2miU0C_dCBhRKbeiNH</eid>
+            <linkedMain/>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>AHGSMHE/mpG_v51crdynxjL</eid>
+            <linkedMain/>
+            <text>בית ראשון</text>
+            </RehearsalMark>
           <Rest>
             <eid>n6AwjAcvQJM_CsfhkmgDWrM</eid>
             <linkedMain/>
@@ -2042,7 +2048,7 @@
           <RehearsalMark>
             <eid>hlosqa9af5M_HKmNEbSnTkD</eid>
             <linkedMain/>
-            <text>B1</text>
+            <text> B1 - פזמון שני</text>
             </RehearsalMark>
           <Harmony>
             <root>21</root>
@@ -6483,23 +6489,22 @@
         </Measure>
       <Measure>
         <voice>
+          <PlayTechAnnotation>
+            <playTechType>tremolo</playTechType>
+            <eid>/+DW9HC67TE_vWOfD5zy+hK</eid>
+            <linkedMain/>
+            <style>expression</style>
+            <text>tremolo</text>
+            </PlayTechAnnotation>
           <Chord>
             <eid>H8JtjieiUyP_mXgM87yWbZL</eid>
-            <durationType>quarter</durationType>
+            <durationType>whole</durationType>
             <Note>
               <eid>ITAK/ZqQs1N_w3uglnsYpmL</eid>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <eid>HCmUtsYrUfE_ftz7hamwaVK</eid>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <eid>NgEe2uyEEvD_KKHT+HJiLBJ</eid>
-            <durationType>half</durationType>
-            </Rest>
           <BarLine>
             <subtype>double</subtype>
             <eid>VwTmH/g7NiD_L2w4Uo+OVlG</eid>
@@ -21731,7 +21736,6 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>KGmqpScDIsO_7UtTgTQre6D</eid>
-            <linkedMain/>
             </BarLine>
           </voice>
         </Measure>
@@ -24515,7 +24519,6 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>TzIWkbxoxxO_UsEYqZFp2/K</eid>
-            <linkedMain/>
             </BarLine>
           </voice>
         </Measure>
@@ -66061,9 +66064,6 @@
             <eid>pveD41tzayL_8ZprQOoijRI</eid>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       </Staff>

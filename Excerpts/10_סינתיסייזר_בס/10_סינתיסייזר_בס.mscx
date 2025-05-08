@@ -11,6 +11,12 @@
       <pageWidth>8.27</pageWidth>
       <pageHeight>11.69</pageHeight>
       <pagePrintableWidth>7.0889</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
       <maskBarlinesForText>0</maskBarlinesForText>
       <accidentalDistance>0.22</accidentalDistance>
       <articulationAnchorLuteFingering>4</articulationAnchorLuteFingering>
@@ -93,16 +99,6 @@
           <text>שונא את הקריפר</text>
           </Text>
         <Text>
-          <eid>dRhQxlyKTJJ_yYDOxm/PVr</eid>
-          <linked>
-            <location>
-              <staves>-6</staves>
-              </location>
-            </linked>
-          <style>subtitle</style>
-          <text>צארט</text>
-          </Text>
-        <Text>
           <eid>BSMicA+ezkJ_zVDzjcD+7jI</eid>
           <linked>
             <location>
@@ -110,7 +106,7 @@
               </location>
             </linked>
           <style>composer</style>
-          <text>ריהאנה וגיא טיוי</text>
+          <text>יואב גל המלאך</text>
           </Text>
         <Text>
           <eid>ZJurxIzf3IE_M6pmGO1p39F</eid>
@@ -142,9 +138,9 @@
               <location>
                 <staves>-6</staves>
                 </location>
-              <indexDiff>4</indexDiff>
+              <indexDiff>3</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 100</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 100</text>
             </Tempo>
           <Rest>
             <eid>c3lYznt3PWB_xASCnpxyfpF</eid>
@@ -177,7 +173,7 @@
                 <staves>-6</staves>
                 </location>
               </linked>
-            <text>Sex Intro</text>
+            <text>אינטרו סקס</text>
             </RehearsalMark>
           <Rest>
             <eid>5s0fr0h/CvJ_mYe1u4G5/UG</eid>
@@ -200,7 +196,7 @@
                 <staves>-6</staves>
                 </location>
               </linked>
-            <text>Sex Intro</text>
+            <text>אינטרו סקס</text>
             </RehearsalMark>
           <Rest>
             <eid>bWqAyAPxidK_AqRtPZVQTqI</eid>
@@ -316,7 +312,7 @@
                 <staves>-6</staves>
                 </location>
               </linked>
-            <text>Intro</text>
+            <text>אינטרו</text>
             </RehearsalMark>
           <Rest>
             <eid>E7l9NdmMNAN_pPTykr9AP6J</eid>
@@ -444,9 +440,32 @@
       <Measure>
         <eid>vJZB+qL+dDP_knXgo+/xzCM</eid>
         <voice>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <eid>wGA0839xq1J_nWKaTnUU9UH</eid>
+            <linked>
+              <location>
+                <staves>-6</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>DxIWK96HcfN_3AdDnXh+NuP</eid>
+            <linked>
+              <location>
+                <staves>-6</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>בית ראשון</text>
+            </RehearsalMark>
           <Rest>
             <eid>+HLhwspQFsE_txc230NYESM</eid>
             <linked>
+              <indexDiff>1</indexDiff>
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -621,7 +640,7 @@
                 <staves>-6</staves>
                 </location>
               </linked>
-            <text>B1</text>
+            <text> B1 - פזמון שני</text>
             </RehearsalMark>
           <Spanner type="Volta">
             <prev>
@@ -740,7 +759,6 @@
           <Rest>
             <eid>Z+bXlal2pWK_qOFt0BBXl7H</eid>
             <linked>
-              <indexDiff>1</indexDiff>
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -4222,13 +4240,11 @@
             <velocity>64</velocity>
             <eid>N1E1oohyqKB_cApVLnk+YaN</eid>
             <linked>
-              <indexDiff>1</indexDiff>
               </linked>
             </Dynamic>
           <Rest>
             <eid>HjVaBdfUNNC_eo3gwP4GKEI</eid>
             <linked>
-              <indexDiff>1</indexDiff>
               </linked>
             <durationType>16th</durationType>
             </Rest>

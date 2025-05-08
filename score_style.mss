@@ -661,11 +661,11 @@
     <defaultOffsetType>1</defaultOffsetType>
     <defaultSystemFlag>0</defaultSystemFlag>
     <defaultText></defaultText>
-    <titleFontFace>Edwin</titleFontFace>
+    <titleFontFace>Heebo</titleFontFace>
     <titleFontSize>22</titleFontSize>
     <titleLineSpacing>1</titleLineSpacing>
     <titleFontSpatiumDependent>0</titleFontSpatiumDependent>
-    <titleFontStyle>0</titleFontStyle>
+    <titleFontStyle>1</titleFontStyle>
     <titleColor r="0" g="0" b="0" a="255"/>
     <titleAlign>center,top</titleAlign>
     <titleOffset x="0" y="0"/>
@@ -676,7 +676,7 @@
     <titleFrameRound>0</titleFrameRound>
     <titleFrameFgColor r="0" g="0" b="0" a="255"/>
     <titleFrameBgColor r="255" g="255" b="255" a="0"/>
-    <subTitleFontFace>Edwin</subTitleFontFace>
+    <subTitleFontFace>Heebo</subTitleFontFace>
     <subTitleFontSize>14</subTitleFontSize>
     <subTitleLineSpacing>1</subTitleLineSpacing>
     <subTitleFontSpatiumDependent>0</subTitleFontSpatiumDependent>
@@ -691,7 +691,7 @@
     <subTitleFrameRound>0</subTitleFrameRound>
     <subTitleFrameFgColor r="0" g="0" b="0" a="255"/>
     <subTitleFrameBgColor r="255" g="255" b="255" a="0"/>
-    <composerFontFace>Edwin</composerFontFace>
+    <composerFontFace>Heebo</composerFontFace>
     <composerFontSize>10</composerFontSize>
     <composerLineSpacing>1</composerLineSpacing>
     <composerFontSpatiumDependent>0</composerFontSpatiumDependent>
@@ -706,7 +706,7 @@
     <composerFrameRound>0</composerFrameRound>
     <composerFrameFgColor r="0" g="0" b="0" a="255"/>
     <composerFrameBgColor r="255" g="255" b="255" a="0"/>
-    <lyricistFontFace>Edwin</lyricistFontFace>
+    <lyricistFontFace>Heebo</lyricistFontFace>
     <lyricistFontSize>10</lyricistFontSize>
     <lyricistLineSpacing>1</lyricistLineSpacing>
     <lyricistFontSpatiumDependent>0</lyricistFontSpatiumDependent>
@@ -983,7 +983,7 @@
     <mmRestRangeFrameFgColor r="0" g="0" b="0" a="255"/>
     <mmRestRangeFrameBgColor r="255" g="255" b="255" a="0"/>
     <mmRestRangeMinDistance>0.5</mmRestRangeMinDistance>
-    <translatorFontFace>Edwin</translatorFontFace>
+    <translatorFontFace>Heebo</translatorFontFace>
     <translatorFontSize>10</translatorFontSize>
     <translatorLineSpacing>1</translatorLineSpacing>
     <translatorFontSpatiumDependent>0</translatorFontSpatiumDependent>
@@ -1061,7 +1061,7 @@
     <fretDiagramFretNumberFrameRound>0</fretDiagramFretNumberFrameRound>
     <fretDiagramFretNumberFrameFgColor r="0" g="0" b="0" a="255"/>
     <fretDiagramFretNumberFrameBgColor r="255" g="255" b="255" a="0"/>
-    <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+    <rehearsalMarkFontFace>Heebo</rehearsalMarkFontFace>
     <rehearsalMarkFontSize>14</rehearsalMarkFontSize>
     <rehearsalMarkLineSpacing>1</rehearsalMarkLineSpacing>
     <rehearsalMarkFontSpatiumDependent>1</rehearsalMarkFontSpatiumDependent>
@@ -1069,7 +1069,7 @@
     <rehearsalMarkColor r="0" g="0" b="0" a="255"/>
     <rehearsalMarkAlign>center,baseline</rehearsalMarkAlign>
     <rehearsalMarkFrameType>1</rehearsalMarkFrameType>
-    <rehearsalMarkFramePadding>0.5</rehearsalMarkFramePadding>
+    <rehearsalMarkFramePadding>0.75</rehearsalMarkFramePadding>
     <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
     <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
     <rehearsalMarkFrameFgColor r="0" g="0" b="0" a="255"/>

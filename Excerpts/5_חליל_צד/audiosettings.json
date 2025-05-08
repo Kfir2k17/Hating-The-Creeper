@@ -1,48 +1,24 @@
 {
     "tracks": [
         {
-            "instrumentId": "chord_symbols",
-            "partId": "6",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "electric-guitar",
-            "partId": "4",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "8",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "electric-piano",
-            "partId": "6",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "drumset",
-            "partId": "2",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "voice",
             "partId": "1",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "5",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "violin",
+            "partId": "3",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -65,15 +41,23 @@
             }
         },
         {
-            "instrumentId": "chord_symbols",
-            "partId": "3",
+            "instrumentId": "alto-saxophone",
+            "partId": "7",
             "soloMuteState": {
-                "mute": false,
+                "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "alto-saxophone",
+            "instrumentId": "chord_symbols",
+            "partId": "3",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
             "partId": "7",
             "soloMuteState": {
                 "mute": true,
@@ -89,6 +73,22 @@
             }
         },
         {
+            "instrumentId": "chord_symbols",
+            "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "electric-piano",
+            "partId": "6",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "tenor-saxophone",
             "partId": "9",
             "soloMuteState": {
@@ -98,14 +98,6 @@
         },
         {
             "instrumentId": "chord_symbols",
-            "partId": "7",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
             "partId": "9",
             "soloMuteState": {
                 "mute": true,
@@ -113,8 +105,24 @@
             }
         },
         {
-            "instrumentId": "violin",
-            "partId": "3",
+            "instrumentId": "electric-guitar",
+            "partId": "4",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "drumset",
+            "partId": "2",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "flute",
+            "partId": "10",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -122,9 +130,9 @@
         },
         {
             "instrumentId": "chord_symbols",
-            "partId": "5",
+            "partId": "10",
             "soloMuteState": {
-                "mute": true,
+                "mute": false,
                 "solo": false
             }
         },
@@ -138,15 +146,7 @@
         },
         {
             "instrumentId": "chord_symbols",
-            "partId": "11",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "flute",
-            "partId": "10",
+            "partId": "6",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -154,7 +154,7 @@
         },
         {
             "instrumentId": "chord_symbols",
-            "partId": "10",
+            "partId": "11",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

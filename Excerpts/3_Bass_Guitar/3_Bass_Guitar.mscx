@@ -275,12 +275,6 @@
         <voice>
           <RehearsalMark>
             <eid>69ueZVb9Y2B_QPUdq0QXJHN</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>Intro</text>
             </RehearsalMark>
           <Chord>
@@ -1378,18 +1372,34 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>tWKatoAk1iO_upDoQowExgE</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
       <Measure>
         <eid>Os+y0XvT9LD_Lj5G29NEVoE</eid>
         <voice>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <eid>stF1BtREcvG_uFHoyZFYS2K</eid>
+            <linked>
+              <location>
+                <staves>-8</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>IjXOmz9JKbB_W5WXsSMscOG</eid>
+            <linked>
+              <location>
+                <staves>-8</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>בית ראשון</text>
+            </RehearsalMark>
           <Chord>
             <eid>cFcCTCkYFJH_8YIES+MgJyO</eid>
             <linked>
@@ -2077,12 +2087,6 @@
         <voice>
           <RehearsalMark>
             <eid>r33yBE1Y+PE_Mz0OskIXlNH</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>A1</text>
             </RehearsalMark>
           <Chord>
@@ -2821,12 +2825,6 @@
         <voice>
           <RehearsalMark>
             <eid>ZU2x3wns7WO_KgH3d9JXs8G</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>B1</text>
             </RehearsalMark>
           <Spanner type="Volta">
@@ -4207,12 +4205,6 @@
         <voice>
           <RehearsalMark>
             <eid>xCw1vW/XVM_ugxq9Y2TcXC</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>C1</text>
             </RehearsalMark>
           <Dynamic>
@@ -4370,12 +4362,6 @@
         <voice>
           <RehearsalMark>
             <eid>xvX1vo6T34C_6Qw2uP2wpvN</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>A2</text>
             </RehearsalMark>
           <Chord>
@@ -5594,12 +5580,6 @@
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
               <eid>mmm+IH9Q/uN_gp2MIahQ/sN</eid>
-              <linked>
-                <location>
-                  <staves>-8</staves>
-                  </location>
-                <indexDiff>1</indexDiff>
-                </linked>
               <endings>1</endings>
               </Volta>
             <next>
@@ -5740,12 +5720,6 @@
             <Volta>
               <beginText>2.</beginText>
               <eid>r+2Alo+mGuK_sqn9+1wxmtN</eid>
-              <linked>
-                <location>
-                  <staves>-8</staves>
-                  </location>
-                <indexDiff>1</indexDiff>
-                </linked>
               <endings>2</endings>
               </Volta>
             <next>
@@ -5800,12 +5774,6 @@
         <voice>
           <RehearsalMark>
             <eid>DjEWrw2mKZM_ImFuM6DKBNI</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>B2</text>
             </RehearsalMark>
           <Spanner type="Volta">
@@ -7192,12 +7160,6 @@
         <voice>
           <RehearsalMark>
             <eid>g1TMNKHE3sG_U/rlvluH7LE</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>C2</text>
             </RehearsalMark>
           <Chord>
@@ -7886,12 +7848,6 @@
         <voice>
           <RehearsalMark>
             <eid>Nrx8hXuiIAN_D/zmgO4CeeG</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>A3</text>
             </RehearsalMark>
           <Dynamic>
@@ -9146,11 +9102,6 @@
         <voice>
           <RehearsalMark>
             <eid>/4UQoB1RapB_A2si3AZm+GJ</eid>
-            <linked>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>A3 Platinum</text>
             </RehearsalMark>
           <Dynamic>
@@ -10396,12 +10347,6 @@
         <voice>
           <RehearsalMark>
             <eid>RXoWAFdmE8_0WRAiDW28vL</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>B3</text>
             </RehearsalMark>
           <Spanner type="Volta">
@@ -10849,11 +10794,6 @@
         <voice>
           <RehearsalMark>
             <eid>vleOK8sTCCL_16BlqfB/PZN</eid>
-            <linked>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             <text>Vamp</text>
             </RehearsalMark>
           <Chord>
@@ -12083,12 +12023,6 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>mWx7osNRPuK_S7G8CsoJ3AG</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
             </BarLine>
           </voice>
         </Measure>

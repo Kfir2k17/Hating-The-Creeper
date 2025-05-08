@@ -2,15 +2,31 @@
     "tracks": [
         {
             "instrumentId": "chord_symbols",
-            "partId": "1",
+            "partId": "6",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "bass-guitar",
-            "partId": "5",
+            "instrumentId": "chord_symbols",
+            "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "electric-piano",
+            "partId": "6",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "electric-guitar",
+            "partId": "4",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -19,14 +35,6 @@
         {
             "instrumentId": "drumset",
             "partId": "2",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "voice",
-            "partId": "1",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -49,8 +57,8 @@
             }
         },
         {
-            "instrumentId": "electric-guitar",
-            "partId": "4",
+            "instrumentId": "bass-guitar",
+            "partId": "5",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -97,32 +105,8 @@
             }
         },
         {
-            "instrumentId": "electric-piano",
-            "partId": "6",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "8",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "chord_symbols",
             "partId": "4",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "6",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -139,14 +123,6 @@
         {
             "instrumentId": "chord_symbols",
             "partId": "2",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "bass-synthesizer",
-            "partId": "11",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

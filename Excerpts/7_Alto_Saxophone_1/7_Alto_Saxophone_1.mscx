@@ -624,6 +624,28 @@
       <Measure>
         <eid>16MySvdTOTB_lGO7UjIfLiH</eid>
         <voice>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <eid>MetlWvk8BrF_IiBpyf19yfI</eid>
+            <linked>
+              <location>
+                <staves>-3</staves>
+                </location>
+              <indexDiff>-1</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>+iXgNZVvnuO_VhCVaNglWiN</eid>
+            <linked>
+              <location>
+                <staves>-3</staves>
+                </location>
+              <indexDiff>-1</indexDiff>
+              </linked>
+            <text>בית ראשון</text>
+            </RehearsalMark>
           <Rest>
             <eid>hzFosGpRFrL_BrCBgmnocnL</eid>
             <durationType>measure</durationType>
@@ -635,6 +657,28 @@
         <multiMeasureRest>4</multiMeasureRest>
         <eid>ILgA/QVjmRH_AmgtHTA0TcG</eid>
         <voice>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <eid>vJOAwJuu8sI_JcK7tUY+gvF</eid>
+            <linked>
+              <location>
+                <staves>-3</staves>
+                </location>
+              <indexDiff>-3</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>RJLHCj23hLJ_6VcG3c4snZN</eid>
+            <linked>
+              <location>
+                <staves>-3</staves>
+                </location>
+              <indexDiff>-3</indexDiff>
+              </linked>
+            <text>בית ראשון</text>
+            </RehearsalMark>
           <Rest>
             <eid>/wWyppdmlKG_R6AZUayfclB</eid>
             <placement>above</placement>
@@ -1660,12 +1704,6 @@
         <voice>
           <RehearsalMark>
             <eid>CAvDDrBC8/O_MJXrd0pg2hI</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-3</staves>
-                </location>
-              </linked>
             <text>A2</text>
             </RehearsalMark>
           <Rest>
@@ -2120,12 +2158,6 @@
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
               <eid>+DwYXTvJiZB_vID/7+T1P3G</eid>
-              <linked>
-                <location>
-                  <staves>-3</staves>
-                  </location>
-                <indexDiff>1</indexDiff>
-                </linked>
               <endings>1</endings>
               </Volta>
             <next>
@@ -2220,12 +2252,6 @@
             <Volta>
               <beginText>2.</beginText>
               <eid>nUxhZmZIi2H_f/z4cr+m3JC</eid>
-              <linked>
-                <location>
-                  <staves>-3</staves>
-                  </location>
-                <indexDiff>1</indexDiff>
-                </linked>
               <endings>2</endings>
               </Volta>
             <next>
@@ -2275,12 +2301,6 @@
         <voice>
           <RehearsalMark>
             <eid>Wtar+RKJEZK_z81N5coOhgD</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-3</staves>
-                </location>
-              </linked>
             <text>B2</text>
             </RehearsalMark>
           <Dynamic>
@@ -3265,11 +3285,6 @@
         <voice>
           <RehearsalMark>
             <eid>9Vh9zcS74aE_wHcRZE6DmCE</eid>
-            <linked>
-              <location>
-                <staves>-3</staves>
-                </location>
-              </linked>
             <text>A3 Platinum</text>
             </RehearsalMark>
           <Dynamic>
@@ -3559,12 +3574,6 @@
         <voice>
           <RehearsalMark>
             <eid>GML66LeBaBF_NeCe2Gv+S7C</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-3</staves>
-                </location>
-              </linked>
             <text>B3</text>
             </RehearsalMark>
           <Spanner type="Volta">
@@ -3754,11 +3763,6 @@
         <voice>
           <RehearsalMark>
             <eid>cvGBxlw2oGO_8PtOGfgNSI</eid>
-            <linked>
-              <location>
-                <staves>-3</staves>
-                </location>
-              </linked>
             <text>Vamp</text>
             </RehearsalMark>
           <Dynamic>
