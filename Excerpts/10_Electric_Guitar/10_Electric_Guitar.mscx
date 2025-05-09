@@ -305,7 +305,6 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>6RWKk9iz78_WPs51G+/QkI</eid>
-            <linkedMain/>
             </BarLine>
           </voice>
         </Measure>
@@ -390,11 +389,6 @@
               <beginTextOffset x="0" y="0"/>
               <continueText>(rit.)</continueText>
               <eid>/LakG6GGvzD_htCdZzh6gqI</eid>
-              <linked>
-                <location>
-                  <staves>-2</staves>
-                  </location>
-                </linked>
               </GradualTempoChange>
             <next>
               <location>
@@ -692,14 +686,10 @@
         </Measure>
       <Measure>
         <eid>YBh9QRsMnxI_4XGrj+Vh5XE</eid>
+        <startRepeat/>
         <voice>
           <RehearsalMark>
             <eid>jU2983Fj2II_MiVzbqYGiUO</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
             <offset x="0.896561" y="-4.40221"/>
             <text>A1</text>
             </RehearsalMark>
@@ -808,6 +798,7 @@
         </Measure>
       <Measure>
         <eid>MGmH2DKZOLO_Pm5h57ikfIJ</eid>
+        <endRepeat>2</endRepeat>
         <voice>
           <Spanner type="Volta">
             <Volta>
@@ -864,18 +855,8 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>LZ2qXjBOSED_5gcVMsa8vXD</eid>
+        <eid>gM2N7sknRGP_fZ5c3MCCdEO</eid>
         <voice>
-          <RehearsalMark>
-            <eid>Fw2yuoA2r4C_FBtfNx3rB+M</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
-            <text>A1</text>
-            </RehearsalMark>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -896,65 +877,6 @@
                 </location>
               </next>
             </Spanner>
-          <Rest>
-            <eid>ks+1+rwCYWC_r+afBoYZc1L</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>7Jukmo92DkN_VF3Zs4FYBnG</eid>
-        <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Rest>
-            <eid>byj7B152qRD_1bodEwVXPcF</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="12/4">
-        <multiMeasureRest>3</multiMeasureRest>
-        <eid>d2fLQ/A5UBK_UzEYfNDSdUP</eid>
-        <voice>
-          <Rest>
-            <eid>tUU0ugJSzTI_TqBs1S+HhwP</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>12/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>BeogkA6lApI_BPkDSB//RWF</eid>
-        <voice>
-          <Rest>
-            <eid>fNyW45CvUuM_IJs8SkliFKC</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>rkCAKwbrFvP_LFZMSIjkJXI</eid>
-        <voice>
-          <Rest>
-            <eid>lzxKh6jm4XD_eiYJgS3DCrM</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>gM2N7sknRGP_fZ5c3MCCdEO</eid>
-        <voice>
           <Chord>
             <eid>ofSZE15zzHI_cKyXDWLQwPM</eid>
             <linked>
@@ -986,6 +908,13 @@
       <Measure>
         <eid>MJvqZA5qFTC_IoM7XIhLzCC</eid>
         <voice>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <eid>fa48knOpbxI_Ib78pZbrCsI</eid>
             <linked>
@@ -1069,13 +998,6 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>vkXXagHIUNK_AqcJyRbrfND</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-2</staves>
-                <fractions>-4/1</fractions>
-                </location>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -1084,13 +1006,7 @@
         <voice>
           <RehearsalMark>
             <eid>Pv6MLFz/7mI_w5nFpqeLH0E</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-2</staves>
-                <fractions>-8/1</fractions>
-                </location>
-              </linked>
+            <linkedMain/>
             <text>B1</text>
             </RehearsalMark>
           <Rest>
@@ -1105,12 +1021,11 @@
         <eid>bjRnwidc3SJ_fgKDqiwu1mB</eid>
         <voice>
           <RehearsalMark>
-            <eid>uoxIiJvAVDF_3LaI+vnpTMI</eid>
+            <eid>2CCExMmsU8P_L+LGllV/C5</eid>
             <linked>
               <score>same</score>
               <location>
                 <staves>-2</staves>
-                <fractions>-8/1</fractions>
                 </location>
               <indexDiff>-1</indexDiff>
               </linked>
@@ -1478,40 +1393,9 @@
         <voice>
           <RehearsalMark>
             <eid>0xId79DPUPP_+4rEbdPNWbJ</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
+            <linkedMain/>
             <text>A2</text>
             </RehearsalMark>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1.</beginText>
-              <eid>1SXXOFysJ2C_ymokaQSdxpO</eid>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1.</beginText>
-              <eid>N177yxm5KzB_/pUvZP7rcUK</eid>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Rest>
             <eid>pIxWYnYuchK_8vaIHlxjskG</eid>
             <durationType>measure</durationType>
@@ -1519,48 +1403,33 @@
             </Rest>
           </voice>
         </Measure>
+      <Measure len="8/4">
+        <multiMeasureRest>2</multiMeasureRest>
+        <eid>5puqvbYzbdL_5AHQGtpTjx</eid>
+        <startRepeat/>
+        <voice>
+          <RehearsalMark>
+            <eid>oOOSqTIjDhL_OwSDQBDuakF</eid>
+            <linked>
+              <score>same</score>
+              <location>
+                <staves>-2</staves>
+                </location>
+              <indexDiff>-1</indexDiff>
+              </linked>
+            <text>A2</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>LxnYMcu1Mx_a27NDQfMaLO</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>8/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       <Measure>
         <eid>9fHnI2+9t3F_Qgc263io71M</eid>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2.</beginText>
-              <eid>Nnk2LDPJPMD_l9e2t+H0IID</eid>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <beginText>2.</beginText>
-              <eid>oRB9RMpj0hN_g3r3ENGwDpK</eid>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Rest>
             <eid>l6dQdkTH/lD_zsrwmGjxQ4O</eid>
             <durationType>measure</durationType>
@@ -1571,20 +1440,6 @@
       <Measure>
         <eid>zE+4Xyo9QsF_jbk3FyDl8OL</eid>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <eid>wpff4pJdtPM_M5L3Hs4Gy3J</eid>
             <linked>
@@ -1742,6 +1597,32 @@
       <Measure>
         <eid>2+1rJGOFmPH_A8VuREzxI/C</eid>
         <voice>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>1.</beginText>
+              <eid>1SXXOFysJ2C_ymokaQSdxpO</eid>
+              <endings>1</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>1.</beginText>
+              <eid>N177yxm5KzB_/pUvZP7rcUK</eid>
+              <endings>1</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <eid>eDF9HeHf/TM_Yq8qvIxxc6I</eid>
             <durationType>measure</durationType>
@@ -1749,21 +1630,48 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="8/4">
-        <multiMeasureRest>2</multiMeasureRest>
-        <eid>8ksM4okMQwJ_KYw3+ykHzqD</eid>
-        <voice>
-          <Rest>
-            <eid>rRfCYriJrOE_OJitngAJCfB</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>8/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       <Measure>
         <eid>7gbyn8u8JN_8XX1J9D62LO</eid>
         <voice>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>2.</beginText>
+              <eid>Nnk2LDPJPMD_l9e2t+H0IID</eid>
+              <endings>2</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="Volta">
+            <Volta>
+              <beginText>2.</beginText>
+              <eid>oRB9RMpj0hN_g3r3ENGwDpK</eid>
+              <endings>2</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <eid>zatcHvXIOQE_YYAl2L85I7B</eid>
             <durationType>measure</durationType>
@@ -1774,6 +1682,20 @@
       <Measure>
         <eid>R03J0tc7Q8O_Xuj6fNYok4I</eid>
         <voice>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <eid>UN6prBigVi_lHxgnp0H58J</eid>
             <linked>
@@ -2078,13 +2000,7 @@
         <voice>
           <RehearsalMark>
             <eid>ioecIU63yAG_gC1vz0dIgNB</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-2</staves>
-                <fractions>-8/1</fractions>
-                </location>
-              </linked>
+            <linkedMain/>
             <text>B2</text>
             </RehearsalMark>
           <Rest>
@@ -2101,12 +2017,11 @@
         <eid>GOp0nS1GSBN_9YI3zm0OacF</eid>
         <voice>
           <RehearsalMark>
-            <eid>+SCDIRpvc3B_cMEEavOIP+G</eid>
+            <eid>3Zr4TligwzO_KhgN+BRPmJG</eid>
             <linked>
               <score>same</score>
               <location>
                 <staves>-2</staves>
-                <fractions>-8/1</fractions>
                 </location>
               </linked>
             <text>B2</text>
@@ -2463,8 +2378,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2489,8 +2404,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2770,19 +2685,6 @@
       <Measure>
         <eid>E3bmGJAF57F_oOJTaW482SN</eid>
         <voice>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1.</beginText>
-              <eid>YD7TjIOOB4G_pCY32s7zoLO</eid>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <eid>K4ADWQ7fHp_ywGttHIjU5C</eid>
             <linked>
@@ -2801,26 +2703,6 @@
       <Measure>
         <eid>xZhPkZHskCB_xTqCj8exRyG</eid>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2.</beginText>
-              <eid>dnoipBYYRvN_qb6+Ppxi8tK</eid>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <eid>Omkue29yqHO_RxawoGB72wJ</eid>
             <linked>
@@ -2852,13 +2734,6 @@
       <Measure>
         <eid>CwxjbIzzjAM_MuWwIdd8n4C</eid>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <eid>v/2Q7D5/AAH_Gx3jkC9baEH</eid>
             <linked>
@@ -2908,6 +2783,19 @@
       <Measure>
         <eid>cVYgeuRPcGJ_/8DUmHE70WN</eid>
         <voice>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>1.</beginText>
+              <eid>YD7TjIOOB4G_pCY32s7zoLO</eid>
+              <endings>1</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>KmRxM0sntqJ_/w7035CrdaB</eid>
             <linked>
@@ -2927,11 +2815,18 @@
         <eid>DtMH06GmmQJ_e+2i9KQg+HO</eid>
         <voice>
           <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
-              <beginText>1.</beginText>
-              <eid>94JPm4+O00B_jPo9Ocu44WD</eid>
-              <endings>1</endings>
+              <beginText>2.</beginText>
+              <eid>dnoipBYYRvN_qb6+Ppxi8tK</eid>
+              <endings>2</endings>
               </Volta>
             <next>
               <location>
@@ -2977,18 +2872,6 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <beginText>2.</beginText>
-              <eid>M4HS2X0lgfG_Sx8op4BCNRP</eid>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <eid>S07O5c2pHSF_64+6caOfurK</eid>
             <linked>
@@ -3007,13 +2890,6 @@
       <Measure>
         <eid>EJBBCdJZWoI_Bd47nZ3amWL</eid>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <eid>zX5vf4GEvyP_umvunPPtaqP</eid>
             <linked>
@@ -3071,7 +2947,6 @@
         <voice>
           <RehearsalMark>
             <eid>0Hn7HwYr3nK_LWDTGcg8nGG</eid>
-            <linkedMain/>
             <text>B3</text>
             </RehearsalMark>
           <Rest>
@@ -3081,32 +2956,22 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="36/4">
-        <multiMeasureRest>9</multiMeasureRest>
-        <eid>EnV7HsQxoaJ_XtNlxiKOOdP</eid>
-        <voice>
-          <RehearsalMark>
-            <eid>0liJZJFMRwM_YyRVp0w0NjD</eid>
-            <linked>
-              <score>same</score>
-              <location>
-                <staves>-2</staves>
-                </location>
-              <indexDiff>-1</indexDiff>
-              </linked>
-            <text>B3</text>
-            </RehearsalMark>
-          <Rest>
-            <eid>9QV0DiWwS8K_k5Ab+FbYQDP</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>36/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       <Measure>
         <eid>sjysljCXiBF_DsgqIo+OA7F</eid>
         <voice>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>1.</beginText>
+              <eid>94JPm4+O00B_jPo9Ocu44WD</eid>
+              <endings>1</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <eid>dg9i8re6TYP_Jep9ACJ75fD</eid>
             <durationType>measure</durationType>
@@ -3117,6 +2982,25 @@
       <Measure>
         <eid>/JDZjpiRRtH_i7xDQCuq2EI</eid>
         <voice>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
+            <Volta>
+              <beginText>2.</beginText>
+              <eid>M4HS2X0lgfG_Sx8op4BCNRP</eid>
+              <endings>2</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <eid>6cSmLvjoi2E_eETHoGagbVC</eid>
             <durationType>measure</durationType>
@@ -3127,10 +3011,29 @@
       <Measure>
         <eid>c+Q18QLdJ0O_f7A4IDXEXxL</eid>
         <voice>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <eid>gqPDY2++jcF_dhVwtNP8Y6J</eid>
             <durationType>measure</durationType>
             <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="24/4">
+        <multiMeasureRest>6</multiMeasureRest>
+        <eid>H6Zno38mT5I_3EWdRi2rF2B</eid>
+        <voice>
+          <Rest>
+            <eid>foSsQrAKP1J_2Oj2wHa3JBG</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>24/4</duration>
             </Rest>
           </voice>
         </Measure>

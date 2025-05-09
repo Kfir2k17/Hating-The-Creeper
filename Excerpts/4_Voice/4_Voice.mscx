@@ -707,8 +707,6 @@
               <beginTextOffset x="0" y="0"/>
               <continueText>(rit.)</continueText>
               <eid>Zp1Ku9jFe1K_krNscLuFg6O</eid>
-              <linked>
-                </linked>
               </GradualTempoChange>
             <next>
               <location>
@@ -876,9 +874,6 @@
               <Spanner type="Tie">
                 <Tie>
                   <eid>6eCXhP2oYfD_MKkc1v98w1J</eid>
-                  <linked>
-                    <indexDiff>2</indexDiff>
-                    </linked>
                   </Tie>
                 <next>
                   <location>
@@ -899,18 +894,12 @@
           <Harmony>
             <root>17</root>
             <eid>9SFM+2dfAWM_Dy6+Ky8qleG</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Chord>
             <eid>RpKnL1oTmaG_OmB22YlsNQM</eid>
-            <linked>
-              </linked>
             <durationType>eighth</durationType>
             <Note>
               <eid>6RrZHipvMUB_5+3VB81tBxH</eid>
-              <linked>
-                </linked>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -925,27 +914,19 @@
             </Chord>
           <Chord>
             <eid>Nz0fFSsjMEH_Z7SjWue1yDI</eid>
-            <linked>
-              </linked>
             <durationType>quarter</durationType>
             <Note>
               <eid>x6A2J9+5CWI_Ugh3R12NGCK</eid>
-              <linked>
-                </linked>
               <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
           <Rest>
             <eid>RFpKn0BgvpM_i7IfLdzRtKO</eid>
-            <linked>
-              </linked>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
             <eid>2h7EVixPIyE_G+hYyXHNfLD</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -1024,9 +1005,6 @@
           <Harmony>
             <root>17</root>
             <eid>lEzw/6KfcmI_zMpiOKU1BCN</eid>
-            <linked>
-              <score>same</score>
-              </linked>
             </Harmony>
           <Rest>
             <eid>i8LvouCrXTD_v6Q2BQldoIN</eid>
@@ -1037,11 +1015,10 @@
         </Measure>
       <Measure>
         <eid>63mmyHGu8BB_5OZch/E3jLL</eid>
+        <startRepeat/>
         <voice>
           <RehearsalMark>
             <eid>zjaBszkJIp_rDOfLbIoklH</eid>
-            <linked>
-              </linked>
             <offset x="0.896561" y="-4.40221"/>
             <text>A1</text>
             </RehearsalMark>
@@ -1049,25 +1026,17 @@
             <root>21</root>
             <name>m</name>
             <eid>ueMSmglXYYF_lj6MYxUf6rP</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Rest>
             <eid>zbIImzi907F_8P11pvJGZwD</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           <Harmony>
             <root>19</root>
             <eid>DfcaRE9wT+O_LBUcGiQifwM</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Rest>
             <eid>V+/zCdTvh0G_BMW2ZSSzQ2D</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -1078,13 +1047,9 @@
           <Harmony>
             <root>17</root>
             <eid>CTi+LVAxxdD_Pu70Nm9oNoE</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Rest>
             <eid>rXWByMs8MbC_eAGlXUs3Jf</eid>
-            <linked>
-              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1097,37 +1062,28 @@
             <root>21</root>
             <name>m</name>
             <eid>DKgs8n4VK7K_YdVi7wAH0FC</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Rest>
             <eid>YEWIix6OHI_IMH9Pa0QwdN</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           <Harmony>
             <root>19</root>
             <eid>2gBUxJZrp8C_pOR6yoZJiz</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Rest>
             <eid>85/ma7sldCN_H9XvRszE0wE</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <eid>UPkcqFdZf2C_t/0EyN+YyEK</eid>
+        <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
             <root>17</root>
             <eid>qr0PRurih4N_h7Np9IzmWWJ</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Spanner type="Volta">
             <Volta>
@@ -1144,24 +1100,18 @@
             </Spanner>
           <Rest>
             <eid>GqeU3HhCArO_ZzTDgJVLhpL</eid>
-            <linked>
-              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>XlElgoFU4LM_1njk1/aiuMI</eid>
+        <eid>K2FrCxhORdP_0tThWBp/SnP</eid>
         <voice>
-          <RehearsalMark>
-            <eid>7zxqp4DTZR_096KfTSqWFO</eid>
-            <text>A1</text>
-            </RehearsalMark>
           <Harmony>
             <root>21</root>
             <name>m</name>
-            <eid>PxQpOognFHC_wCh4WvNB06D</eid>
+            <eid>4cnFkYP/C+M_k/QwwfktqrG</eid>
             </Harmony>
           <Spanner type="Volta">
             <prev>
@@ -1184,105 +1134,15 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>If45kwIPoPP_SP1eXJm/8s</eid>
-            <durationType>half</durationType>
-            </Rest>
-          <Harmony>
-            <root>19</root>
-            <eid>tUYfQ7ai/vE_WLMp1t3p7FI</eid>
-            </Harmony>
-          <Rest>
-            <eid>yJBCnk/t75D_gW43VQnEzRG</eid>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>FNP1ZmVcLSM_YqMHNVeUShM</eid>
-        <voice>
-          <Harmony>
-            <root>17</root>
-            <eid>Ebanv0G/T1K_NbEG0JfNmXE</eid>
-            </Harmony>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Rest>
-            <eid>dsPm2Sg1s8G_TTkqGWzpDK</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>BnZus55k2LH_OG2depJeKHF</eid>
-        <voice>
-          <Harmony>
-            <root>21</root>
-            <name>m</name>
-            <eid>xHUcOVDHhxN_xJMz9q69+ZN</eid>
-            </Harmony>
-          <Rest>
-            <eid>OVttjWUg0VF_aAaS8VflRfH</eid>
-            <durationType>half</durationType>
-            </Rest>
-          <Harmony>
-            <root>19</root>
-            <eid>bwhbmo0wYZ_93KCmEPx0dF</eid>
-            </Harmony>
-          <Rest>
-            <eid>wsQSFRwEXoM_OI0sa+cSCTI</eid>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>i2VyvDcZiwD_mP+dC/IuzbN</eid>
-        <voice>
-          <Harmony>
-            <root>17</root>
-            <eid>a9kSPeNT59K_+vgrmdQzTUH</eid>
-            <linked>
-              <score>same</score>
-              </linked>
-            </Harmony>
-          <Rest>
-            <eid>pIlcWv2jyoL_55UynqSmxeF</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>K2FrCxhORdP_0tThWBp/SnP</eid>
-        <voice>
-          <Harmony>
-            <root>21</root>
-            <name>m</name>
-            <eid>4cnFkYP/C+M_k/QwwfktqrG</eid>
-            <linked>
-              </linked>
-            </Harmony>
-          <Rest>
             <eid>7+WAU8Fw9nO_e8BF06mrc/B</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           <Harmony>
             <root>19</root>
             <eid>EHUGdxwjGXP_SfYIMmYpxjC</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Rest>
             <eid>gFTMK+o+0R_nhYu/bQ7UjC</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -1293,13 +1153,16 @@
           <Harmony>
             <root>17</root>
             <eid>eEdcZGdOX0M_ErrMrn70qgI</eid>
-            <linked>
-              </linked>
             </Harmony>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <eid>nFzRXHCkjoI_VZ/JeURcAcD</eid>
-            <linked>
-              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1312,25 +1175,17 @@
             <root>21</root>
             <name>m</name>
             <eid>rXfU85Zrb/N_uKul1WHartG</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Rest>
             <eid>H1cZIRSoRZI_qezZeefrChN</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           <Harmony>
             <root>19</root>
             <eid>kqJVMtaFNj_cyqkng8uGgN</eid>
-            <linked>
-              </linked>
             </Harmony>
           <Rest>
             <eid>ydqa/+FdsgC_LfG3e8icsjH</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -2063,16 +1918,25 @@
             <name>m</name>
             <eid>FaG1yOLUNqL_4mBCdvS1SDK</eid>
             </Harmony>
+          <Harmony>
+            <root>21</root>
+            <name>m</name>
+            <eid>ZokS3jHpF2K_+tRqf96CC0C</eid>
+            </Harmony>
           <Rest>
-            <eid>eEBbX6MqBvL_yzZg5veuh9L</eid>
+            <eid>kOpPk+27R8E_bmFRWFgRWBL</eid>
             <durationType>half</durationType>
             </Rest>
           <Harmony>
             <root>19</root>
             <eid>4OLunuEKrsF_ZhmrFDyit</eid>
             </Harmony>
+          <Harmony>
+            <root>19</root>
+            <eid>wDyKKkn46S_CA9OZ1xhXx</eid>
+            </Harmony>
           <Rest>
-            <eid>C1Eot1ZgsIE_fmZBOa1XiTF</eid>
+            <eid>+GrFjJhm+jN_4e7J4B3GNc</eid>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -2137,6 +2001,78 @@
             <name>m</name>
             <eid>lcPnIYEtXaD_f0fhXxBNCyM</eid>
             </Harmony>
+          <Rest>
+            <eid>hAKSk7jActC_S4Nh69Kku0C</eid>
+            <durationType>half</durationType>
+            </Rest>
+          <Harmony>
+            <root>19</root>
+            <eid>LnQTkL11DFJ_1oGee/zTj0O</eid>
+            </Harmony>
+          <Rest>
+            <eid>DI9Mzykj6jP_cr/DE5ZY9bG</eid>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>ijyZeNegJqC_CkdPGsarQsL</eid>
+        <voice>
+          <Harmony>
+            <root>17</root>
+            <eid>eDn449ziSBK_Q2UgZwd1mYN</eid>
+            </Harmony>
+          <Rest>
+            <eid>52w0KDSVX0H_s4BZZiGx/kH</eid>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>2PDIMtxV7lO_qBYxNxsX+FE</eid>
+        <voice>
+          <Harmony>
+            <root>21</root>
+            <name>m</name>
+            <eid>X/Nmck7tzgE_i0kPLqLoY4O</eid>
+            </Harmony>
+          <Rest>
+            <eid>h6tHxK7jfJF_CtW13TV/ppJ</eid>
+            <durationType>half</durationType>
+            </Rest>
+          <Harmony>
+            <root>19</root>
+            <eid>iQ771S8oKq_bLKgTKpM3UE</eid>
+            </Harmony>
+          <Rest>
+            <eid>J5snlC3IiVN_WDI2W1OCRgO</eid>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>WhRp1Ci1p7D_UP1pD+tKnH</eid>
+        <voice>
+          <Harmony>
+            <root>17</root>
+            <eid>IfvqhHJG0+P_w/hZR0yfYJM</eid>
+            </Harmony>
+          <Rest>
+            <eid>6hkh9HUMT6M_Q+k1K9k+bu</eid>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>+Qrq7IZHY3M_eYWiPWdeX4L</eid>
+        <voice>
+          <Harmony>
+            <root>21</root>
+            <name>m</name>
+            <eid>MOSFAwkcrsE_s4D4geBYb6</eid>
+            </Harmony>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -2164,25 +2100,25 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>hAKSk7jActC_S4Nh69Kku0C</eid>
+            <eid>5OX17RT6hJP_Iz5Z6jUOFBF</eid>
             <durationType>half</durationType>
             </Rest>
           <Harmony>
             <root>19</root>
-            <eid>LnQTkL11DFJ_1oGee/zTj0O</eid>
+            <eid>NcaAue6+5+P_FoePo1mfKIP</eid>
             </Harmony>
           <Rest>
-            <eid>DI9Mzykj6jP_cr/DE5ZY9bG</eid>
+            <eid>H8biBLShEdD_vrDNbZXNBwG</eid>
             <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>ijyZeNegJqC_CkdPGsarQsL</eid>
+        <eid>xYUL5rYn6SP_dV4fGUZBLpG</eid>
         <voice>
           <Harmony>
             <root>17</root>
-            <eid>eDn449ziSBK_Q2UgZwd1mYN</eid>
+            <eid>6GUvoNBlZ6N_vRTcnZeMgHL</eid>
             </Harmony>
           <Spanner type="Volta">
             <prev>
@@ -2224,122 +2160,29 @@
               </next>
             </Spanner>
           <Rest>
-            <eid>52w0KDSVX0H_s4BZZiGx/kH</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>2PDIMtxV7lO_qBYxNxsX+FE</eid>
-        <voice>
-          <Harmony>
-            <root>21</root>
-            <name>m</name>
-            <eid>X/Nmck7tzgE_i0kPLqLoY4O</eid>
-            </Harmony>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Rest>
-            <eid>h6tHxK7jfJF_CtW13TV/ppJ</eid>
-            <durationType>half</durationType>
-            </Rest>
-          <Harmony>
-            <root>19</root>
-            <eid>iQ771S8oKq_bLKgTKpM3UE</eid>
-            </Harmony>
-          <Rest>
-            <eid>J5snlC3IiVN_WDI2W1OCRgO</eid>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>WhRp1Ci1p7D_UP1pD+tKnH</eid>
-        <voice>
-          <Harmony>
-            <root>17</root>
-            <eid>IfvqhHJG0+P_w/hZR0yfYJM</eid>
-            </Harmony>
-          <Rest>
-            <eid>6hkh9HUMT6M_Q+k1K9k+bu</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>+Qrq7IZHY3M_eYWiPWdeX4L</eid>
-        <voice>
-          <Harmony>
-            <root>21</root>
-            <name>m</name>
-            <eid>MOSFAwkcrsE_s4D4geBYb6</eid>
-            </Harmony>
-          <Rest>
-            <eid>5OX17RT6hJP_Iz5Z6jUOFBF</eid>
-            <durationType>half</durationType>
-            </Rest>
-          <Harmony>
-            <root>19</root>
-            <eid>NcaAue6+5+P_FoePo1mfKIP</eid>
-            </Harmony>
-          <Rest>
-            <eid>H8biBLShEdD_vrDNbZXNBwG</eid>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>xYUL5rYn6SP_dV4fGUZBLpG</eid>
-        <voice>
-          <Harmony>
-            <root>17</root>
-            <eid>6GUvoNBlZ6N_vRTcnZeMgHL</eid>
-            <linkedMain/>
-            </Harmony>
-          <Rest>
             <eid>DdSX0pahXjH_hYfCpiEwZeG</eid>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure len="8/4">
-        <multiMeasureRest>2</multiMeasureRest>
-        <eid>lQVPMrVKF4N_LAI4ITn2VC</eid>
-        <voice>
-          <Harmony>
-            <root>17</root>
-            <eid>ZoMKiv29v9D_bmD5Eas2NNE</eid>
-            <linked>
-              <score>same</score>
-              <indexDiff>-1</indexDiff>
-              </linked>
-            </Harmony>
-          <Rest>
-            <eid>smP4wckNt6C_XZcOLMmspKM</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>8/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       <Measure>
         <eid>J3g4hnXNbkC_2pzuc7l+pkE</eid>
         <voice>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <eid>PI98GGkLdXL_/54NUYCsCPI</eid>
             <durationType>measure</durationType>
@@ -3334,19 +3177,6 @@
             <root>17</root>
             <eid>B9w8YOAeSG_HkZV6Qh1Kw</eid>
             </Harmony>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1.</beginText>
-              <eid>WnghS8gStEF_+cExhv1xKMI</eid>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Rest>
             <eid>b0/bWGpYvLO_ckThwnCzWnK</eid>
             <durationType>measure</durationType>
@@ -3362,26 +3192,6 @@
             <name>m</name>
             <eid>Z6/fwRLQC+P_v2HbAUJVleO</eid>
             </Harmony>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2.</beginText>
-              <eid>vYsreOE3soF_iTQlsI972HL</eid>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Rest>
             <eid>bWcGHwnyKqB_34d0/PQ/OoO</eid>
             <durationType>half</durationType>
@@ -3403,13 +3213,6 @@
             <root>17</root>
             <eid>2sxzltfHiZE_nOrSigjH04</eid>
             </Harmony>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <eid>VhEITHeTEeM_QHUhhh61ZQP</eid>
             <durationType>measure</durationType>
@@ -3446,6 +3249,19 @@
             <root>17</root>
             <eid>uWy6Y8pmOiI_b5PdaUb/xAD</eid>
             </Harmony>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>1.</beginText>
+              <eid>WnghS8gStEF_+cExhv1xKMI</eid>
+              <endings>1</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <eid>nyKP6ODkBkL_B6wAbFKyTnK</eid>
             <durationType>measure</durationType>
@@ -3461,6 +3277,26 @@
             <name>m</name>
             <eid>aIn8o+E7wvO_bJ5RqB+WmRH</eid>
             </Harmony>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>2.</beginText>
+              <eid>vYsreOE3soF_iTQlsI972HL</eid>
+              <endings>2</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <eid>INjF2amooQN_ovGwvMTC4XI</eid>
             <durationType>half</durationType>
@@ -3482,6 +3318,13 @@
             <root>17</root>
             <eid>YP8hz/jQJ2E_p2aqH/dt7/L</eid>
             </Harmony>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <eid>HZ2B/L5ekK_3c/Fd6UGVPB</eid>
             <durationType>measure</durationType>
