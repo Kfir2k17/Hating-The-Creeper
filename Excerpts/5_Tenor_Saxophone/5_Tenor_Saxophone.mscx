@@ -184,6 +184,22 @@
               <indexDiff>1</indexDiff>
               </linked>
             </Harmony>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <eid>U5BUSKp/jwN_81UUqlg+ciO</eid>
+            <linked>
+              <indexDiff>1</indexDiff>
+              </linked>
+            </Dynamic>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            <eid>d5N5kitmP5E_GOoVlr+hnAB</eid>
+            <linked>
+              <indexDiff>1</indexDiff>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>ycogj58MgHL_USFZauapUoF</eid>
             <linked>
@@ -280,6 +296,32 @@
             <linked>
               </linked>
             </Harmony>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <eid>tN6DPSO23/P_3yDNYI650jG</eid>
+              <linked>
+                </linked>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="-0.711033" y="2.335"/>
+                <off2 x="0.711033" y="0"/>
+                <eid>BtlMwt3tBOM_JbBRiI8oJwC</eid>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="1.75"/>
+                <off2 x="0" y="0"/>
+                <eid>Q2XZRRvnQYH_Tlh7W6QBG1G</eid>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>4</measures>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>17646SjPEpJ_2FuDFGDX1ZE</eid>
             <linked>
@@ -627,6 +669,21 @@
               <tpc2>19</tpc2>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            <timeTick>1</timeTick>
+            </location>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-4</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
           <Rest>
             <eid>qkWuDYNef8F_MhYExRk1gDC</eid>
             <linked>
@@ -1201,6 +1258,13 @@
               </linked>
             <text>A1 - בית ראשון</text>
             </RehearsalMark>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>x9ykkJc64aO_Yz+PFMlxrb</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>S43RmMxZGGM_ltzkAIEuqHJ</eid>
             <linked>
@@ -1939,7 +2003,7 @@
             <text>B1 - פזמון</text>
             </RehearsalMark>
           <Dynamic>
-            <subtype>p</subtype>
+            <subtype>f</subtype>
             <velocity>49</velocity>
             <eid>o7zWnaBX5eN_4FsvJoMfXdP</eid>
             <linked>
@@ -4864,7 +4928,7 @@
             <text>Vamp</text>
             </RehearsalMark>
           <Dynamic>
-            <subtype>mf</subtype>
+            <subtype>f</subtype>
             <velocity>49</velocity>
             <eid>Dvi2EnxpKeK_9Nh7LKrGRxH</eid>
             <linked>

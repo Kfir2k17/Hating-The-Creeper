@@ -172,6 +172,14 @@
               </linked>
             <text>אינטרו סקס</text>
             </RehearsalMark>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>49</velocity>
+            <eid>++GAoqDw0DG_baileRF+IU</eid>
+            <linked>
+              <indexDiff>1</indexDiff>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>BMgKIXuu/d_5DtgdvSwakP</eid>
             <linked>
@@ -245,6 +253,26 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <eid>V57lwZx/YdF_FI7y5hSVwUO</eid>
+              <linked>
+                </linked>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.705905" y="1.75"/>
+                <off2 x="-0.705905" y="0"/>
+                <eid>bL+Zle7tUAO_urjpup0iO7O</eid>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>4</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>UVNHv2BLSvB_Vy6LoNUgHSL</eid>
             <linked>
@@ -466,6 +494,18 @@
               <tpc2>11</tpc2>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/4</fractions>
+            <timeTick>1</timeTick>
+            </location>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-4</measures>
+                <fractions>1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           </voice>
         </Measure>
       <Measure>
@@ -767,6 +807,13 @@
               </linked>
             <text>A1 - בית ראשון</text>
             </RehearsalMark>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>TpxpiDI+huK_1IKzw+ZXCQC</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>iUAz+ByB5KJ_/6014DXCFyI</eid>
             <linked>
@@ -1505,7 +1552,7 @@
             <text>B1 - פזמון</text>
             </RehearsalMark>
           <Dynamic>
-            <subtype>p</subtype>
+            <subtype>f</subtype>
             <velocity>49</velocity>
             <eid>0uOEUBTRTI_IYnptKJmosO</eid>
             <linked>
@@ -4430,7 +4477,7 @@
             <text>Vamp</text>
             </RehearsalMark>
           <Dynamic>
-            <subtype>mf</subtype>
+            <subtype>f</subtype>
             <velocity>49</velocity>
             <eid>dBaQRAQZNvG_ZWTjmYP3O6C</eid>
             <linked>

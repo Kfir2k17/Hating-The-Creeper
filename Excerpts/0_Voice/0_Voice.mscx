@@ -5479,6 +5479,15 @@
             <linked>
               </linked>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <eid>Ne0Hbz5u25_iQOucglOTfH</eid>
+            <linked>
+              </linked>
+            <minDistance>-999</minDistance>
+            <offset x="0.336209" y="7.5185"/>
+            </Dynamic>
           <Chord>
             <eid>0uGFV6fiJPD_G8awTj6cS/J</eid>
             <linked>

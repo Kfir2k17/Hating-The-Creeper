@@ -138,6 +138,14 @@
               </linked>
             <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 110</text>
             </Tempo>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>49</velocity>
+            <eid>D6O0XedNIUG_gJgVgCpvhXI</eid>
+            <linked>
+              <indexDiff>2</indexDiff>
+              </linked>
+            </Dynamic>
           <Rest>
             <eid>voejSF4mCL_M7DzylAIEEO</eid>
             <linked>
@@ -474,6 +482,33 @@
               <tpc2>8</tpc2>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <eid>wKXLV6UgwGJ_X3w+oxumi8I</eid>
+              <linked>
+                </linked>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="-0.292523" y="2.21"/>
+                <off2 x="0.292523" y="0"/>
+                <minDistance>0.575</minDistance>
+                <eid>KkcSRPMN1ZH_br7djfZTToD</eid>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="1.75"/>
+                <off2 x="0" y="0"/>
+                <eid>iGtg6X6UQ2K_NkmF/29g79D</eid>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>4</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>2TDe/dVNgoJ_kczHLTkXqrG</eid>
             <linked>
@@ -634,6 +669,18 @@
               <tpc2>9</tpc2>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/4</fractions>
+            <timeTick>1</timeTick>
+            </location>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-4</measures>
+                <fractions>1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           </voice>
         </Measure>
       <Measure>
@@ -935,12 +982,13 @@
               </linked>
             <text>A1 - בית ראשון</text>
             </RehearsalMark>
-          <StaffText>
-            <eid>qBbnvCPKIqO_cwuR2dcQ87I</eid>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>Fk+kA/JFpWF_zw8J7jLy/aB</eid>
             <linked>
               </linked>
-            <text>only even reps</text>
-            </StaffText>
+            </Dynamic>
           <Chord>
             <eid>z5xDwClcc1J_FmRumqEubNE</eid>
             <linked>
@@ -1273,12 +1321,6 @@
       <Measure>
         <eid>Zg19ujC0ZqP_tzIfIVEcErC</eid>
         <voice>
-          <StaffText>
-            <eid>8+qU97EWQpN_TcQhw2//K5K</eid>
-            <linked>
-              </linked>
-            <text>only even reps</text>
-            </StaffText>
           <Chord>
             <eid>lXU81SfjpgM_nWiBVy5LWjL</eid>
             <linked>
@@ -1685,7 +1727,7 @@
             <text>B1 - פזמון</text>
             </RehearsalMark>
           <Dynamic>
-            <subtype>p</subtype>
+            <subtype>f</subtype>
             <velocity>49</velocity>
             <eid>mb8pFbHJIpE_keUfJxjuHJH</eid>
             <linked>
@@ -2350,12 +2392,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>s1QL+QkWICO_MbbbSkeNDIK</eid>
-            <linked>
-              </linked>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -4608,7 +4644,7 @@
             <text>Vamp</text>
             </RehearsalMark>
           <Dynamic>
-            <subtype>mf</subtype>
+            <subtype>f</subtype>
             <velocity>49</velocity>
             <eid>lqA/5HqjD8M_xqlwjVXY28J</eid>
             <linked>
