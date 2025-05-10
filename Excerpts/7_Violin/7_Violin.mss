@@ -408,7 +408,7 @@
     <concertPitch>0</concertPitch>
     <multiVoiceRestTwoSpaceOffset>0</multiVoiceRestTwoSpaceOffset>
     <mergeMatchingRests>0</mergeMatchingRests>
-    <createMultiMeasureRests>0</createMultiMeasureRests>
+    <createMultiMeasureRests>1</createMultiMeasureRests>
     <minEmptyMeasures>2</minEmptyMeasures>
     <singleMeasureMMRestUseNormalRest>1</singleMeasureMMRestUseNormalRest>
     <singleMeasureMMRestShowNumber>1</singleMeasureMMRestShowNumber>
@@ -661,11 +661,11 @@
     <defaultOffsetType>1</defaultOffsetType>
     <defaultSystemFlag>0</defaultSystemFlag>
     <defaultText></defaultText>
-    <titleFontFace>Heebo</titleFontFace>
+    <titleFontFace>Edwin</titleFontFace>
     <titleFontSize>22</titleFontSize>
     <titleLineSpacing>1</titleLineSpacing>
     <titleFontSpatiumDependent>0</titleFontSpatiumDependent>
-    <titleFontStyle>1</titleFontStyle>
+    <titleFontStyle>0</titleFontStyle>
     <titleColor r="0" g="0" b="0" a="255"/>
     <titleAlign>center,top</titleAlign>
     <titleOffset x="0" y="0"/>
@@ -676,7 +676,7 @@
     <titleFrameRound>0</titleFrameRound>
     <titleFrameFgColor r="0" g="0" b="0" a="255"/>
     <titleFrameBgColor r="255" g="255" b="255" a="0"/>
-    <subTitleFontFace>Heebo</subTitleFontFace>
+    <subTitleFontFace>Edwin</subTitleFontFace>
     <subTitleFontSize>14</subTitleFontSize>
     <subTitleLineSpacing>1</subTitleLineSpacing>
     <subTitleFontSpatiumDependent>0</subTitleFontSpatiumDependent>
@@ -691,7 +691,7 @@
     <subTitleFrameRound>0</subTitleFrameRound>
     <subTitleFrameFgColor r="0" g="0" b="0" a="255"/>
     <subTitleFrameBgColor r="255" g="255" b="255" a="0"/>
-    <composerFontFace>Heebo</composerFontFace>
+    <composerFontFace>Edwin</composerFontFace>
     <composerFontSize>10</composerFontSize>
     <composerLineSpacing>1</composerLineSpacing>
     <composerFontSpatiumDependent>0</composerFontSpatiumDependent>
@@ -706,7 +706,7 @@
     <composerFrameRound>0</composerFrameRound>
     <composerFrameFgColor r="0" g="0" b="0" a="255"/>
     <composerFrameBgColor r="255" g="255" b="255" a="0"/>
-    <lyricistFontFace>Heebo</lyricistFontFace>
+    <lyricistFontFace>Edwin</lyricistFontFace>
     <lyricistFontSize>10</lyricistFontSize>
     <lyricistLineSpacing>1</lyricistLineSpacing>
     <lyricistFontSpatiumDependent>0</lyricistFontSpatiumDependent>
@@ -983,7 +983,7 @@
     <mmRestRangeFrameFgColor r="0" g="0" b="0" a="255"/>
     <mmRestRangeFrameBgColor r="255" g="255" b="255" a="0"/>
     <mmRestRangeMinDistance>0.5</mmRestRangeMinDistance>
-    <translatorFontFace>Heebo</translatorFontFace>
+    <translatorFontFace>Edwin</translatorFontFace>
     <translatorFontSize>10</translatorFontSize>
     <translatorLineSpacing>1</translatorLineSpacing>
     <translatorFontSpatiumDependent>0</translatorFontSpatiumDependent>
@@ -997,7 +997,7 @@
     <translatorFrameRound>0</translatorFrameRound>
     <translatorFrameFgColor r="0" g="0" b="0" a="255"/>
     <translatorFrameBgColor r="255" g="255" b="255" a="0"/>
-    <systemTextFontFace>Heebo</systemTextFontFace>
+    <systemTextFontFace>Edwin</systemTextFontFace>
     <systemTextFontSize>10</systemTextFontSize>
     <systemTextLineSpacing>1</systemTextLineSpacing>
     <systemTextFontSpatiumDependent>1</systemTextFontSpatiumDependent>
@@ -1061,7 +1061,7 @@
     <fretDiagramFretNumberFrameRound>0</fretDiagramFretNumberFrameRound>
     <fretDiagramFretNumberFrameFgColor r="0" g="0" b="0" a="255"/>
     <fretDiagramFretNumberFrameBgColor r="255" g="255" b="255" a="0"/>
-    <rehearsalMarkFontFace>Heebo</rehearsalMarkFontFace>
+    <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
     <rehearsalMarkFontSize>14</rehearsalMarkFontSize>
     <rehearsalMarkLineSpacing>1</rehearsalMarkLineSpacing>
     <rehearsalMarkFontSpatiumDependent>1</rehearsalMarkFontSpatiumDependent>
@@ -1069,7 +1069,7 @@
     <rehearsalMarkColor r="0" g="0" b="0" a="255"/>
     <rehearsalMarkAlign>center,baseline</rehearsalMarkAlign>
     <rehearsalMarkFrameType>1</rehearsalMarkFrameType>
-    <rehearsalMarkFramePadding>0.75</rehearsalMarkFramePadding>
+    <rehearsalMarkFramePadding>0.5</rehearsalMarkFramePadding>
     <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
     <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
     <rehearsalMarkFrameFgColor r="0" g="0" b="0" a="255"/>

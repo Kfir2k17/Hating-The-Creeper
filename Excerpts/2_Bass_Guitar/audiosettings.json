@@ -1,8 +1,16 @@
 {
     "tracks": [
         {
-            "instrumentId": "voice",
+            "instrumentId": "chord_symbols",
             "partId": "1",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "drumset",
+            "partId": "2",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -25,64 +33,8 @@
             }
         },
         {
-            "instrumentId": "bass-guitar",
-            "partId": "5",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
+            "instrumentId": "voice",
             "partId": "1",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "flute",
-            "partId": "10",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "10",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "alto-saxophone",
-            "partId": "7",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "3",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "7",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "alto-saxophone",
-            "partId": "8",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -105,22 +57,6 @@
             }
         },
         {
-            "instrumentId": "tenor-saxophone",
-            "partId": "9",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "9",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "electric-guitar",
             "partId": "4",
             "soloMuteState": {
@@ -130,15 +66,31 @@
         },
         {
             "instrumentId": "chord_symbols",
-            "partId": "4",
+            "partId": "6",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "drumset",
-            "partId": "2",
+            "instrumentId": "alto-saxophone",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "alto-saxophone",
+            "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "tenor-saxophone",
+            "partId": "9",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -146,7 +98,15 @@
         },
         {
             "instrumentId": "chord_symbols",
-            "partId": "6",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "9",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
