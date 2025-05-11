@@ -3,40 +3,8 @@
   <rootfiles>
     <rootfile full-path="score_style.mss"/>
     <rootfile full-path="Hating-The-Creeper.mscx"/>
-    <rootfile full-path="Excerpts/0_Voice/0_Voice.mss"/>
-    <rootfile full-path="Excerpts/0_Voice/0_Voice.mscx"/>
-    <rootfile full-path="Excerpts/1_חליל_צד/1_חליל_צד.mss"/>
-    <rootfile full-path="Excerpts/1_חליל_צד/1_חליל_צד.mscx"/>
-    <rootfile full-path="Excerpts/2_Violin/2_Violin.mss"/>
-    <rootfile full-path="Excerpts/2_Violin/2_Violin.mscx"/>
-    <rootfile full-path="Excerpts/3_Alto_Saxophone_1/3_Alto_Saxophone_1.mss"/>
-    <rootfile full-path="Excerpts/3_Alto_Saxophone_1/3_Alto_Saxophone_1.mscx"/>
-    <rootfile full-path="Excerpts/4_Alto_Saxophone_2/4_Alto_Saxophone_2.mss"/>
-    <rootfile full-path="Excerpts/4_Alto_Saxophone_2/4_Alto_Saxophone_2.mscx"/>
-    <rootfile full-path="Excerpts/5_Tenor_Saxophone/5_Tenor_Saxophone.mss"/>
-    <rootfile full-path="Excerpts/5_Tenor_Saxophone/5_Tenor_Saxophone.mscx"/>
-    <rootfile full-path="Excerpts/6_סינתיסייזר_בס/6_סינתיסייזר_בס.mss"/>
-    <rootfile full-path="Excerpts/6_סינתיסייזר_בס/6_סינתיסייזר_בס.mscx"/>
-    <rootfile full-path="Excerpts/7_Electric_Piano/7_Electric_Piano.mss"/>
-    <rootfile full-path="Excerpts/7_Electric_Piano/7_Electric_Piano.mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
-    <rootfile full-path="Excerpts/0_Voice/viewsettings.json"/>
-    <rootfile full-path="Excerpts/0_Voice/audiosettings.json"/>
-    <rootfile full-path="Excerpts/1_חליל_צד/viewsettings.json"/>
-    <rootfile full-path="Excerpts/1_חליל_צד/audiosettings.json"/>
-    <rootfile full-path="Excerpts/2_Violin/viewsettings.json"/>
-    <rootfile full-path="Excerpts/2_Violin/audiosettings.json"/>
-    <rootfile full-path="Excerpts/3_Alto_Saxophone_1/viewsettings.json"/>
-    <rootfile full-path="Excerpts/3_Alto_Saxophone_1/audiosettings.json"/>
-    <rootfile full-path="Excerpts/4_Alto_Saxophone_2/viewsettings.json"/>
-    <rootfile full-path="Excerpts/4_Alto_Saxophone_2/audiosettings.json"/>
-    <rootfile full-path="Excerpts/5_Tenor_Saxophone/viewsettings.json"/>
-    <rootfile full-path="Excerpts/5_Tenor_Saxophone/audiosettings.json"/>
-    <rootfile full-path="Excerpts/6_סינתיסייזר_בס/viewsettings.json"/>
-    <rootfile full-path="Excerpts/6_סינתיסייזר_בס/audiosettings.json"/>
-    <rootfile full-path="Excerpts/7_Electric_Piano/viewsettings.json"/>
-    <rootfile full-path="Excerpts/7_Electric_Piano/audiosettings.json"/>
     </rootfiles>
   </container>
