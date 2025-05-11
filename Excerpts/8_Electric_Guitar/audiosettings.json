@@ -66,6 +66,22 @@
         },
         {
             "instrumentId": "alto-saxophone",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "alto-saxophone",
             "partId": "8",
             "soloMuteState": {
                 "mute": true,
@@ -107,22 +123,6 @@
         {
             "instrumentId": "bass-synthesizer",
             "partId": "11",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "electric-guitar",
-            "partId": "4",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "4",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
