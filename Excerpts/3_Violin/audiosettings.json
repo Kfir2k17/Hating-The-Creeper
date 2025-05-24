@@ -1,24 +1,16 @@
 {
     "tracks": [
         {
-            "instrumentId": "chord_symbols",
-            "partId": "5",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "violin",
-            "partId": "3",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "voice",
             "partId": "1",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "5",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -57,14 +49,6 @@
             }
         },
         {
-            "instrumentId": "chord_symbols",
-            "partId": "3",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "alto-saxophone",
             "partId": "7",
             "soloMuteState": {
@@ -82,6 +66,14 @@
         },
         {
             "instrumentId": "alto-saxophone",
+            "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
             "partId": "8",
             "soloMuteState": {
                 "mute": true,
@@ -91,14 +83,6 @@
         {
             "instrumentId": "electric-piano",
             "partId": "6",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "8",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -139,6 +123,14 @@
         {
             "instrumentId": "chord_symbols",
             "partId": "4",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "drumset",
+            "partId": "2",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

@@ -11,6 +11,12 @@
       <pageWidth>8.27</pageWidth>
       <pageHeight>11.69</pageHeight>
       <pagePrintableWidth>7.0889</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
       <maskBarlinesForText>0</maskBarlinesForText>
       <accidentalDistance>0.22</accidentalDistance>
       <articulationAnchorLuteFingering>4</articulationAnchorLuteFingering>
@@ -48,7 +54,7 @@
     <metaTag name="partName">Tenor Saxophone</metaTag>
     <Part id="9">
       <Staff id="1">
-        <linkedTo>6</linkedTo>
+        <linkedTo>5</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -85,14 +91,14 @@
         <eid>1nfYzJTmAKF_kDwD/59RWzK</eid>
         <linked>
           <location>
-            <staves>-5</staves>
+            <staves>-4</staves>
             </location>
           </linked>
         <Text>
           <eid>LmFgRaNfYfO_+x0CWBUv5KP</eid>
           <linked>
             <location>
-              <staves>-5</staves>
+              <staves>-4</staves>
               </location>
             </linked>
           <style>title</style>
@@ -102,7 +108,7 @@
           <eid>k6Vkp8WdbTF_HQuzMxP0TRG</eid>
           <linked>
             <location>
-              <staves>-5</staves>
+              <staves>-4</staves>
               </location>
             </linked>
           <style>composer</style>
@@ -137,17 +143,17 @@
             <eid>4DIEskcLfcP_f2d1uhHgFUI</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>5</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 110</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110</text>
             </Tempo>
           <RehearsalMark>
             <eid>Hx46rGJsniH_FGc20aqdXwB</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>5</indexDiff>
               </linked>
@@ -695,7 +701,7 @@
             <eid>g3c7x+4AvtE_ryem3oN4ngP</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -718,7 +724,7 @@
             <eid>p1LIQ+je9GM_fA3a1ByaOiB</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -807,7 +813,7 @@
               <eid>INGdCIyEh0H_l0kHofvIutG</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-4</staves>
                   </location>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -898,17 +904,17 @@
             <eid>nUWG/vE6/IF_x4WzQElrV+O</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 110 </text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110 </text>
             </Tempo>
           <RehearsalMark>
             <eid>o3VD0TxRkaN_5cPu6jjWYiP</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -1258,7 +1264,7 @@
             <eid>7EWQrif4kDJ_eCHCpryURuI</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               </linked>
             <text>A1 - בית ראשון</text>
@@ -1879,7 +1885,7 @@
               <eid>Y+oe475UoEB_5bD9PuIOJYP</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-4</staves>
                   </location>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -1962,7 +1968,7 @@
             <eid>TB94o/SzOaP_SPVzzP5t9aM</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -1983,7 +1989,7 @@
               <eid>TEEniiwJN+I_1spCnPrTEhG</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-4</staves>
                   </location>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -2697,7 +2703,7 @@
             <eid>qT26gLjicLI_O7+m5UiV3RF</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -2927,7 +2933,7 @@
               <eid>Sd+RkyOJTSD_/IC61Z48wPF</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-4</staves>
                   </location>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -2968,7 +2974,7 @@
               <eid>lBIvek30/l_JJd+ysx4yKI</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-4</staves>
                   </location>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -2997,7 +3003,7 @@
             <eid>bb5Mjeh5mqD_x6tKfLQIUXE</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -3139,7 +3145,7 @@
             <eid>aL/zEWjojfN_13TPLndCOeI</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -3333,7 +3339,7 @@
               <eid>GU1VtfBizB_hezpGqXiLBL</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-4</staves>
                   </location>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -3361,7 +3367,7 @@
             <eid>nQegWHtKrDD_KGuuwlb2mCG</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -3381,7 +3387,7 @@
               <eid>sKumNRupKAI_fzsp0Ju7doE</eid>
               <linked>
                 <location>
-                  <staves>-5</staves>
+                  <staves>-4</staves>
                   </location>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -4098,14 +4104,6 @@
               <tpc>21</tpc>
               <tpc2>23</tpc2>
               </Note>
-            <Note>
-              <eid>hnBVkkTfi8L_H1p5WjY7sSF</eid>
-              <linked>
-                </linked>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
-              <tpc2>23</tpc2>
-              </Note>
             </Chord>
           <BarLine>
             <subtype>double</subtype>
@@ -4122,7 +4120,7 @@
             <eid>eE97jiFGL8I_nZtyho5DsCI</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -4146,7 +4144,7 @@
             <eid>auuUXMl2IiE_22rAB/Poi/L</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -4161,8 +4159,7 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>wZlpKs/HfLP_/1BkNXMIpKP</eid>
-            <linked>
-              </linked>
+            <linkedMain/>
             </BarLine>
           </voice>
         </Measure>
@@ -4204,6 +4201,10 @@
             <subtype>double</subtype>
             <eid>jcrCnj8wjoO_7SEu6ruhyCI</eid>
             <linked>
+              <score>same</score>
+              <location>
+                <staves>-4</staves>
+                </location>
               </linked>
             </BarLine>
           </voice>
@@ -4213,20 +4214,12 @@
         <voice>
           <RehearsalMark>
             <eid>ttQGWiLqM2F_j10CMBFmPMK</eid>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              <indexDiff>2</indexDiff>
-              </linked>
+            <linkedMain/>
             <offset x="2.13479" y="-5.15348"/>
             <text>A3 - בית שלישי</text>
             </RehearsalMark>
           <Rest>
             <eid>eE0Z0eCkhZI_sDWSb6yjI7B</eid>
-            <linked>
-              <indexDiff>1</indexDiff>
-              </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -4237,14 +4230,14 @@
         <eid>mosCDX36UFD_IEUB7b7vC/J</eid>
         <voice>
           <RehearsalMark>
-            <eid>oZEiR45sGMF_IziSDec4oKK</eid>
+            <eid>XX76lgfWmGC_pNcLyJQbsMN</eid>
             <linked>
+              <score>same</score>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
-              <indexDiff>2</indexDiff>
+              <indexDiff>-1</indexDiff>
               </linked>
-            <positionLinkedToMaster>0</positionLinkedToMaster>
             <offset x="2.13479" y="-5.15348"/>
             <text>A3 - בית שלישי</text>
             </RehearsalMark>
@@ -4421,7 +4414,7 @@
             <eid>HsjkzaB5kJP_/ZNbHebd11C</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -4704,7 +4697,7 @@
             <eid>LcSPV0c/jHG_gcRg5tzCHsD</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -4732,7 +4725,7 @@
             <eid>ThdB5fJeWBJ_Y/MBKaDPBXO</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -4866,7 +4859,7 @@
             <eid>3Co+LMDwAhB_FAgSpsnFDWO</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               </linked>
             <text>Vamp</text>
@@ -5154,7 +5147,7 @@
             <eid>YjguaZd1jAM_lOHGUArErdP</eid>
             <linked>
               <location>
-                <staves>-5</staves>
+                <staves>-4</staves>
                 </location>
               </linked>
             <text>לחזור מלאנתלפים פעמים</text>

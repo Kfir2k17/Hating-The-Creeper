@@ -11,6 +11,12 @@
       <pageWidth>8.27</pageWidth>
       <pageHeight>11.69</pageHeight>
       <pagePrintableWidth>7.0889</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
       <maskBarlinesForText>0</maskBarlinesForText>
       <accidentalDistance>0.22</accidentalDistance>
       <articulationAnchorLuteFingering>4</articulationAnchorLuteFingering>
@@ -121,7 +127,7 @@
             <eid>+M+c1bKXUm_yllQvT1EozH</eid>
             <linked>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 110</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110</text>
             </Tempo>
           <RehearsalMark>
             <eid>Hp+jqhTC6QL_eqcaSvsSzIH</eid>
@@ -132,7 +138,7 @@
             <text>אינטרו סקס</text>
             </RehearsalMark>
           <Rest>
-            <eid>uUHzmXV5FRB_SiWi5yk8WEB</eid>
+            <eid>IJhzF+JgIMG_HtC+QklwXfG</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
@@ -1225,7 +1231,7 @@
             <eid>O9jomYKytPP_pCWpBdi7Z7L</eid>
             <linked>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 110 </text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110 </text>
             </Tempo>
           <RehearsalMark>
             <eid>/O7Yqv586jD_Nxfj9RY2ZaM</eid>
@@ -4050,8 +4056,6 @@
           <BarLine>
             <subtype>double</subtype>
             <eid>x0Gj/eIsS2D_4LrEn/+51uO</eid>
-            <linked>
-              </linked>
             </BarLine>
           </voice>
         </Measure>
@@ -4062,19 +4066,13 @@
             <root>21</root>
             <name>m</name>
             <eid>p02hGDEUSxE_e76oB4ckr0</eid>
-            <linked>
-              </linked>
             </Harmony>
           <RehearsalMark>
             <eid>uPUNFPQUgQL_MIVYsx1GzuN</eid>
-            <linked>
-              </linked>
             <text>A3 - בית שלישי</text>
             </RehearsalMark>
           <Rest>
             <eid>WxX3KxasXtP_FTZ5s3ClQ5E</eid>
-            <linked>
-              </linked>
             <durationType>half</durationType>
             </Rest>
           <Harmony>
