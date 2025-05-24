@@ -9440,6 +9440,10 @@
         </Measure>
       <Measure>
         <eid>+3RUnFK6HAP_bONu5s6gXeK</eid>
+        <LayoutBreak>
+          <eid>Mli3e/T9s2G_sbv6vl8lfpE</eid>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <eid>hUAquPxsz+O_Ky2hrmFXBnK</eid>
@@ -10199,6 +10203,10 @@
         </Measure>
       <Measure>
         <eid>py7Or+NnvHI_Arqi5jTKEtO</eid>
+        <LayoutBreak>
+          <eid>X50Sb/24+aG_IZQjzesdBWK</eid>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <eid>4MzQZyhZO2L_hSt4hQgM5ED</eid>
@@ -10315,6 +10323,8 @@
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
+            <minDistance>0.243831</minDistance>
+            <offset x="3.40579" y="-4.84738"/>
             <text>C2 - אינטרלוד שקט</text>
             </RehearsalMark>
           <Rest>
@@ -10336,6 +10346,9 @@
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
+            <positionLinkedToMaster>0</positionLinkedToMaster>
+            <minDistance>0.243831</minDistance>
+            <offset x="3.40579" y="-4.84738"/>
             <text>C2 - אינטרלוד שקט</text>
             </RehearsalMark>
           <Rest>
@@ -10823,6 +10836,10 @@
         </Measure>
       <Measure>
         <eid>iovJmEKfeXH_4wbToOXZadK</eid>
+        <LayoutBreak>
+          <eid>AHQumBUnc/L_QvFk0n9t3GG</eid>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <eid>w6xZQ+he3yK_IxFV1UDCsKD</eid>

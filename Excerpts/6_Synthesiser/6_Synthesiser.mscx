@@ -1677,6 +1677,10 @@
       <Measure len="36/4">
         <multiMeasureRest>9</multiMeasureRest>
         <eid>bjdmekekK4D_VbmZK+abgzL</eid>
+        <LayoutBreak>
+          <eid>mWhiuiS/SJC_MnETC/we1cI</eid>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <RehearsalMark>
             <eid>1qDHpZvFJPH_D/i4I46yv6D</eid>
@@ -1782,6 +1786,10 @@
         </Measure>
       <Measure>
         <eid>QCG5eBfkm9E_Bwsf1OgQmaC</eid>
+        <LayoutBreak>
+          <eid>qFy8JXdNK4P_+7Gs3gJ0oxE</eid>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Rest>
             <eid>kWla+GZZezE_s6TZWTZ+4HK</eid>

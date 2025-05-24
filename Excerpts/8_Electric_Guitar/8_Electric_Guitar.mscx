@@ -9531,6 +9531,10 @@
         </Measure>
       <Measure>
         <eid>nvXQOoF41aO_2EUiHTPyZx</eid>
+        <LayoutBreak>
+          <eid>9kpznX3Oa6P_zleBFND/KpD</eid>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>21</root>

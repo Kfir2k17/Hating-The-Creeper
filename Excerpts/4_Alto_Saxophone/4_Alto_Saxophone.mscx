@@ -89,7 +89,9 @@
           </StaffType>
         <defaultConcertClef>G8vb</defaultConcertClef>
         <defaultTransposingClef>G</defaultTransposingClef>
+        <isStaffVisible>0</isStaffVisible>
         </Staff>
+      <show>0</show>
       <trackName>Tenor Saxophone</trackName>
       <Instrument id="tenor-saxophone">
         <longName>Tenor Saxophone</longName>
@@ -952,6 +954,40 @@
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="16/4">
+        <multiMeasureRest>4</multiMeasureRest>
+        <eid>iGZPMoCI6SD_orByQcz9q4L</eid>
+        <voice>
+          <Tempo>
+            <tempo>1.833333</tempo>
+            <followText>1</followText>
+            <eid>VGCbAfzJM+L_W1yMwm7RwDM</eid>
+            <linked>
+              <location>
+                <staves>-3</staves>
+                </location>
+              <indexDiff>2</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110 </text>
+            </Tempo>
+          <RehearsalMark>
+            <eid>EyCdYYo5k/J_XOucpQa4JBE</eid>
+            <linked>
+              <location>
+                <staves>-3</staves>
+                </location>
+              <indexDiff>2</indexDiff>
+              </linked>
+            <text>מעבר</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>OuxcBPt8G2F_CEJ2XBPkc8P</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>16/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -5477,6 +5513,17 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="16/4">
+        <multiMeasureRest>4</multiMeasureRest>
+        <voice>
+          <Rest>
+            <eid>KsEupr9ZMcI_y/1q2Kw7KcK</eid>
+            <placement>above</placement>
+            <durationType>measure</durationType>
+            <duration>16/4</duration>
             </Rest>
           </voice>
         </Measure>

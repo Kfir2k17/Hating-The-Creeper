@@ -92,7 +92,7 @@
             "instrumentId": "tenor-saxophone",
             "partId": "9",
             "soloMuteState": {
-                "mute": false,
+                "mute": true,
                 "solo": false
             }
         },
