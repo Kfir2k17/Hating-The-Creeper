@@ -3238,7 +3238,7 @@
               <eid>PVNUkxAl15L_KkzXxKlbomF</eid>
               <linked>
                 </linked>
-              <pitch>68</pitch>
+              <pitch>80</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -3251,7 +3251,7 @@
               <eid>rA/rrjDwUkF_QOnqVGa2/QK</eid>
               <linked>
                 </linked>
-              <pitch>66</pitch>
+              <pitch>78</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
@@ -3264,7 +3264,7 @@
               <eid>aQqn26wygUE_XAH6WOoOCt</eid>
               <linked>
                 </linked>
-              <pitch>71</pitch>
+              <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
@@ -3290,7 +3290,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>68</pitch>
+              <pitch>80</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -3316,7 +3316,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>68</pitch>
+              <pitch>80</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -3346,7 +3346,7 @@
               <eid>DzXS2/N4SAK_HdaBXMUwn6K</eid>
               <linked>
                 </linked>
-              <pitch>68</pitch>
+              <pitch>80</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -3359,7 +3359,7 @@
               <eid>EK8Zs1clKtL_3/8RDi0obpK</eid>
               <linked>
                 </linked>
-              <pitch>66</pitch>
+              <pitch>78</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
@@ -3372,7 +3372,7 @@
               <eid>jPgyoau4KGJ_fJnHfYVJuHI</eid>
               <linked>
                 </linked>
-              <pitch>64</pitch>
+              <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
@@ -3398,7 +3398,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>61</pitch>
+              <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
@@ -3428,7 +3428,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>61</pitch>
+              <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>

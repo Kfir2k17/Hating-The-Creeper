@@ -135,8 +135,8 @@
         </Staff>
       <trackName>Alto Saxophone 1</trackName>
       <Instrument id="alto-saxophone">
-        <longName>Alto Saxophone 1</longName>
-        <shortName>A. Sax. 1</shortName>
+        <longName>Alto Saxophone</longName>
+        <shortName>A. Sax.</shortName>
         <trackName>Alto Saxophone</trackName>
         <minPitchP>49</minPitchP>
         <maxPitchP>92</maxPitchP>
@@ -7808,7 +7808,7 @@
             <Note>
               <eid>ls2Bjs5MXzN_HNizZY2TA9H</eid>
               <linkedMain/>
-              <pitch>68</pitch>
+              <pitch>80</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -7819,7 +7819,7 @@
             <Note>
               <eid>yBqCvj1hKPB_6OBrGoeD7iI</eid>
               <linkedMain/>
-              <pitch>66</pitch>
+              <pitch>78</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
@@ -7830,7 +7830,7 @@
             <Note>
               <eid>ZlvHPOXkhWF_KBokt9NFj</eid>
               <linkedMain/>
-              <pitch>71</pitch>
+              <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
@@ -7853,7 +7853,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>68</pitch>
+              <pitch>80</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -7876,7 +7876,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>68</pitch>
+              <pitch>80</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -7901,7 +7901,7 @@
             <Note>
               <eid>E2fm01DoNYE_MPlwOJTjKDH</eid>
               <linkedMain/>
-              <pitch>68</pitch>
+              <pitch>80</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -7912,7 +7912,7 @@
             <Note>
               <eid>KPO7W2DCmsO_enSKQv57p1</eid>
               <linkedMain/>
-              <pitch>66</pitch>
+              <pitch>78</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
@@ -7923,7 +7923,7 @@
             <Note>
               <eid>XuKA0hkNHRP_SieYZ0qMWLF</eid>
               <linkedMain/>
-              <pitch>64</pitch>
+              <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
@@ -7946,7 +7946,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>61</pitch>
+              <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
@@ -7969,7 +7969,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>61</pitch>
+              <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
@@ -10579,7 +10579,7 @@
             <Note>
               <eid>5xbuwtAEB7_6dM4PXautAK</eid>
               <linkedMain/>
-              <pitch>80</pitch>
+              <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -10590,7 +10590,7 @@
             <Note>
               <eid>DXuJL6EqrVF_Et4Yoc/WY2</eid>
               <linkedMain/>
-              <pitch>78</pitch>
+              <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
@@ -10601,7 +10601,7 @@
             <Note>
               <eid>LihXdfKtu/G_1O4xxlAT6DB</eid>
               <linkedMain/>
-              <pitch>71</pitch>
+              <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
@@ -10624,7 +10624,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>80</pitch>
+              <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -10647,7 +10647,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>80</pitch>
+              <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -10672,7 +10672,7 @@
             <Note>
               <eid>mB5IkVqzs8N_wQhlTEU3StE</eid>
               <linkedMain/>
-              <pitch>80</pitch>
+              <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -10683,7 +10683,7 @@
             <Note>
               <eid>D6AEX7WujYO_wbQYO5vSdAM</eid>
               <linkedMain/>
-              <pitch>78</pitch>
+              <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
@@ -10694,7 +10694,7 @@
             <Note>
               <eid>Y9+HFcz2DRB_DAfEkkMUyvE</eid>
               <linkedMain/>
-              <pitch>80</pitch>
+              <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -10717,7 +10717,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>73</pitch>
+              <pitch>61</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
@@ -10740,7 +10740,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>73</pitch>
+              <pitch>61</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>

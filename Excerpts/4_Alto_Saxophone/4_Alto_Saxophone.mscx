@@ -4,7 +4,7 @@
   <programRevision>ac9d3bc</programRevision>
   <Score>
     <eid>jXhZ5p8nIqM_eY6ga0nR7yE</eid>
-    <name>Alto Saxophone 1</name>
+    <name>Alto Saxophone</name>
     <initialPartId>7</initialPartId>
     <Division>480</Division>
     <Style>
@@ -51,7 +51,7 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <open>1</open>
-    <metaTag name="partName">Alto Saxophone 1</metaTag>
+    <metaTag name="partName">Alto Saxophone</metaTag>
     <Part id="7">
       <Staff id="1">
         <linkedTo>4</linkedTo>
@@ -146,7 +146,7 @@
         <Text>
           <eid>fpQqV+gBzLO_2SYl+faQ3sG</eid>
           <style>instrument_excerpt</style>
-          <text>Alto Saxophone 1</text>
+          <text>Alto Saxophone</text>
           </Text>
         </VBox>
       <Measure len="3/4">
