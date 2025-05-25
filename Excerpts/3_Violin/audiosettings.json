@@ -1,16 +1,16 @@
 {
     "tracks": [
         {
-            "instrumentId": "voice",
-            "partId": "1",
+            "instrumentId": "chord_symbols",
+            "partId": "5",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "chord_symbols",
-            "partId": "5",
+            "instrumentId": "voice",
+            "partId": "1",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -73,16 +73,16 @@
             }
         },
         {
-            "instrumentId": "chord_symbols",
-            "partId": "8",
+            "instrumentId": "electric-piano",
+            "partId": "6",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "electric-piano",
-            "partId": "6",
+            "instrumentId": "chord_symbols",
+            "partId": "8",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

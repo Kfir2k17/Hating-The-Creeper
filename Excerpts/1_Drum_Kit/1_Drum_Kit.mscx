@@ -10337,6 +10337,7 @@
       <Measure len="16/4">
         <multiMeasureRest>4</multiMeasureRest>
         <eid>EYQR+K6M6DM_+uC2LEBCwZN</eid>
+        <endRepeat>2</endRepeat>
         <voice>
           <RehearsalMark>
             <eid>GhBlqyR6A5I_IAaHcqe5KbJ</eid>
@@ -10357,11 +10358,6 @@
             <durationType>measure</durationType>
             <duration>16/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>HTMehETbsQG_+Vr2ukISmO</eid>
-            <linkedMain/>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -10390,6 +10386,7 @@
         </Measure>
       <Measure>
         <eid>IOAZWdzxyWO_a/yeWtLCN4F</eid>
+        <endRepeat>2</endRepeat>
         <voice>
           <Rest>
             <eid>mELY+Oi9zTH_Vz/rNTghXzE</eid>
@@ -10430,7 +10427,7 @@
         <eid>76vWvzFiMfB_APpwKHM4nfB</eid>
         <voice>
           <RehearsalMark>
-            <eid>2+fjJRBoKJK_Kf5d56Z1gwO</eid>
+            <eid>v+HTZ+z1WNM_CAameoaLgDN</eid>
             <linked>
               <score>same</score>
               <location>
@@ -11029,12 +11026,6 @@
             </Dynamic>
           <RehearsalMark>
             <eid>+1sfLgTSrF_4k1O47UTdwB</eid>
-            <linked>
-              <location>
-                <staves>-11</staves>
-                </location>
-              <indexDiff>2</indexDiff>
-              </linked>
             <offset x="0.711596" y="-6.09693"/>
             <text>A3 Platinum</text>
             </RehearsalMark>
@@ -12843,12 +12834,6 @@
         <voice>
           <RehearsalMark>
             <eid>5gnxnczaHrP_Szf7IB7501H</eid>
-            <linked>
-              <location>
-                <staves>-11</staves>
-                </location>
-              <indexDiff>1</indexDiff>
-              </linked>
             <text>B3 - פזמון כפיים</text>
             </RehearsalMark>
           <Rest>
@@ -13244,11 +13229,6 @@
         <voice>
           <RehearsalMark>
             <eid>c7N/K2Dnt2I_4Mlvccd5PNN</eid>
-            <linked>
-              <location>
-                <staves>-11</staves>
-                </location>
-              </linked>
             <text>Vamp</text>
             </RehearsalMark>
           <Chord>
@@ -14065,11 +14045,6 @@
             </Chord>
           <SystemText>
             <eid>w+oGG+OjJ8I_DM0f+5/X4AN</eid>
-            <linked>
-              <location>
-                <staves>-11</staves>
-                </location>
-              </linked>
             <text>לחזור מלאנתלפים פעמים</text>
             </SystemText>
           <Chord>

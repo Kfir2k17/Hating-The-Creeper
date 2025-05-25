@@ -8669,6 +8669,7 @@
         </Measure>
       <Measure>
         <eid>caLZNT7QXRF_V+l24XidqPE</eid>
+        <endRepeat>2</endRepeat>
         <LayoutBreak>
           <eid>Mq3vB2lGwRE_rB+lo5b5VHK</eid>
           <subtype>line</subtype>
@@ -8840,10 +8841,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>31uWxerF97J_pRndeeueT</eid>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -12455,7 +12452,7 @@
             <eid>Vns1V95deXP_TvXI8X3Cr0P</eid>
             <linked>
               </linked>
-            <durationType>quarter</durationType>
+            <durationType>whole</durationType>
             <Note>
               <eid>W7jZPUw8Si_NZ2HikZGAMN</eid>
               <linked>
@@ -12478,18 +12475,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <eid>67cZYykMC7B_mzyPONSee7L</eid>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <eid>F57WEHicly_xqi/r/y3KhG</eid>
-            <linked>
-              </linked>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -15464,10 +15449,6 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>FZi6aJlQ0pL_MaYlJZrpH8B</eid>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -16662,7 +16643,7 @@
             <eid>+deqU3jr1wH_zVJFD/XcK3P</eid>
             <linked>
               </linked>
-            <durationType>quarter</durationType>
+            <durationType>whole</durationType>
             <Note>
               <eid>n6RZfbNo8SL_/ivelZ68TfD</eid>
               <linked>
@@ -16678,18 +16659,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <eid>bpuxO3fa8wK_OV9yatytLcG</eid>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <eid>pWrdQ/AGpPE_URmQ8hqBdhD</eid>
-            <linked>
-              </linked>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>

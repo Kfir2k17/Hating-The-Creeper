@@ -2965,6 +2965,7 @@
         </Measure>
       <Measure>
         <eid>VqbLEzM+jHL_Qb8jQYTHVED</eid>
+        <endRepeat>2</endRepeat>
         <LayoutBreak>
           <eid>tddbXIqq1pH_DtanEjhC+aN</eid>
           <subtype>line</subtype>
@@ -2991,10 +2992,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>oO2+0Z/tXfB_oaT1BCqb/2E</eid>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -3193,12 +3190,6 @@
             </Dynamic>
           <RehearsalMark>
             <eid>mQwJbRt2eUD_svaoDnWbBOK</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              <indexDiff>2</indexDiff>
-              </linked>
             <offset x="0.711596" y="-6.09693"/>
             <text>A3 Platinum</text>
             </RehearsalMark>
@@ -3212,7 +3203,6 @@
           <Rest>
             <eid>bhjIbjKrKfI_ac5qGHz8PpG</eid>
             <linked>
-              <indexDiff>2</indexDiff>
               </linked>
             <durationType>half</durationType>
             </Rest>
@@ -3458,12 +3448,7 @@
         <voice>
           <RehearsalMark>
             <eid>6D8Qh6mojWJ_gnZz6kUnFfE</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              <indexDiff>1</indexDiff>
-              </linked>
+            <linkedMain/>
             <text>B3 - פזמון כפיים</text>
             </RehearsalMark>
           <Rest>
@@ -3481,12 +3466,12 @@
         <eid>SH3tAt8vrtJ_qZW2ZuwcBoM</eid>
         <voice>
           <RehearsalMark>
-            <eid>TrC+Qfx6ChN_1ilOugS+fMI</eid>
+            <eid>YyG7B1qmA2I_SwDfJRi4w/M</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-2</staves>
                 </location>
-              <indexDiff>1</indexDiff>
               </linked>
             <text>B3 - פזמון כפיים</text>
             </RehearsalMark>
@@ -3612,11 +3597,6 @@
         <voice>
           <RehearsalMark>
             <eid>zA82IpGiSOE_E1qo1yoNVbN</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
             <text>Vamp</text>
             </RehearsalMark>
           <Rest>
@@ -3857,11 +3837,6 @@
             </location>
           <SystemText>
             <eid>5N0DnPFOkaG_j8j2kxAuUxC</eid>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
             <text>לחזור מלאנתלפים פעמים</text>
             </SystemText>
           </voice>
@@ -3873,7 +3848,7 @@
             <eid>4FdYgLutlSO_QdlhBA96SkD</eid>
             <linked>
               </linked>
-            <durationType>quarter</durationType>
+            <durationType>whole</durationType>
             <Note>
               <eid>hS3ZmjLH3IG_Ps4r9eKqF1B</eid>
               <linked>
@@ -3882,18 +3857,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <eid>nTNJTv++puF_ITSF8/nTJyB</eid>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <eid>2esjiP3y2eN_P5ssBq93/vC</eid>
-            <linked>
-              </linked>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>

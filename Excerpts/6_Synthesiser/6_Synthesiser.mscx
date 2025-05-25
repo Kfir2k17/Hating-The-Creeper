@@ -1321,6 +1321,7 @@
       <Measure len="16/4">
         <multiMeasureRest>4</multiMeasureRest>
         <eid>QMk+QG+9FGD_WPYEfXpUM9O</eid>
+        <endRepeat>2</endRepeat>
         <voice>
           <RehearsalMark>
             <eid>l0pdD7bh0i_uwfigDkTCgM</eid>
@@ -1338,11 +1339,6 @@
             <durationType>measure</durationType>
             <duration>16/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>z5EcSad/o6N_AacYtB5YCyE</eid>
-            <linkedMain/>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -1371,6 +1367,7 @@
         </Measure>
       <Measure>
         <eid>xUvmptZWa5M_v5UV7yVhEoJ</eid>
+        <endRepeat>2</endRepeat>
         <voice>
           <Rest>
             <eid>IGHt3XXwoiP_6eNi3pQwWTK</eid>
@@ -1411,7 +1408,7 @@
         <eid>N9+n633QUDK_ZH1Vb1fAzyF</eid>
         <voice>
           <RehearsalMark>
-            <eid>3aIG31sniZE_6LVX9FhAEmP</eid>
+            <eid>r0x+QiYWT4G_PKMaotgB+RO</eid>
             <linked>
               <score>same</score>
               <location>
@@ -1523,19 +1520,12 @@
             </Dynamic>
           <RehearsalMark>
             <eid>JmPBaTwy8qP_C3zI+htu5UD</eid>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              <indexDiff>2</indexDiff>
-              </linked>
             <offset x="0.711596" y="-6.09693"/>
             <text>A3 Platinum</text>
             </RehearsalMark>
           <Rest>
             <eid>3M7AQkmGvpH_zekTey/WlbP</eid>
             <linked>
-              <indexDiff>2</indexDiff>
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -1656,12 +1646,7 @@
         <voice>
           <RehearsalMark>
             <eid>kb00xoEIiAD_1o22jmyElaB</eid>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              <indexDiff>1</indexDiff>
-              </linked>
+            <linkedMain/>
             <text>B3 - פזמון כפיים</text>
             </RehearsalMark>
           <Rest>
@@ -1683,12 +1668,12 @@
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <eid>1qDHpZvFJPH_D/i4I46yv6D</eid>
+            <eid>RWQxWL2NOQL_8qynlmGe1TH</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-5</staves>
                 </location>
-              <indexDiff>1</indexDiff>
               </linked>
             <text>B3 - פזמון כפיים</text>
             </RehearsalMark>
@@ -1818,11 +1803,6 @@
         <voice>
           <RehearsalMark>
             <eid>bDEUJQGm+iP_Leni7UycWgH</eid>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              </linked>
             <text>Vamp</text>
             </RehearsalMark>
           <Rest>
@@ -1874,11 +1854,6 @@
             </location>
           <SystemText>
             <eid>Ma9SEB58hRN_aoBNjjzNcrK</eid>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              </linked>
             <text>לחזור מלאנתלפים פעמים</text>
             </SystemText>
           </voice>
@@ -6875,11 +6850,6 @@
             <durationType>measure</durationType>
             <duration>16/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>nnEMmoFCULC_zw9SSkydR1O</eid>
-            <linkedMain/>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -9467,7 +9437,7 @@
             <eid>2hwyDrPsbFL_GZ/k70JVi+L</eid>
             <linked>
               </linked>
-            <durationType>quarter</durationType>
+            <durationType>whole</durationType>
             <Note>
               <eid>iYhYfC+RcfE_EUYw4IreVTM</eid>
               <linked>
@@ -9490,18 +9460,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <eid>Z1HDfnuhl2B_elGx2TOmQoF</eid>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <eid>Roi+sopWWiG_wUakio4LHxB</eid>
-            <linked>
-              </linked>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>

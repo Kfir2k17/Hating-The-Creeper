@@ -4039,6 +4039,7 @@
         </Measure>
       <Measure>
         <eid>SJaxr7kXRqK_tqxZMFTNCd</eid>
+        <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
             <root>17</root>
@@ -4053,10 +4054,6 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>x0Gj/eIsS2D_4LrEn/+51uO</eid>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -5714,19 +5711,8 @@
             <eid>FBpURCLkkpF_nkZnWXpA0kD</eid>
             <linked>
               </linked>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <eid>nQzyq6xeHAE_t8qWSmO6NQF</eid>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <eid>/HVtYqoUpjB_zPELJgAQIIE</eid>
-            <linked>
-              </linked>
-            <durationType>half</durationType>
+            <offset x="5" y="0.132476"/>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>

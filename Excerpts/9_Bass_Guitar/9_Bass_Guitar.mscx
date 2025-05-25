@@ -4991,6 +4991,7 @@
       <Measure len="16/4">
         <multiMeasureRest>4</multiMeasureRest>
         <eid>wBRN6DuBnrM_TUbq3ewwW6M</eid>
+        <endRepeat>2</endRepeat>
         <LayoutBreak>
           <eid>v6UPwE7OyaF_1JVm2DddQzD</eid>
           <subtype>line</subtype>
@@ -5015,11 +5016,6 @@
             <durationType>measure</durationType>
             <duration>16/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            <eid>dRSdUBLP2rD_EexfvqU4BSO</eid>
-            <linkedMain/>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -5048,6 +5044,7 @@
         </Measure>
       <Measure>
         <eid>sBevAE9pxSB_kvU1dKSXdWE</eid>
+        <endRepeat>2</endRepeat>
         <LayoutBreak>
           <eid>oDIdNvnp+/J_DHo22IZeVeK</eid>
           <subtype>line</subtype>
@@ -5538,12 +5535,6 @@
             </Dynamic>
           <RehearsalMark>
             <eid>plAPfMyDyNO_bjbLS/ZSCJB</eid>
-            <linked>
-              <location>
-                <staves>-10</staves>
-                </location>
-              <indexDiff>2</indexDiff>
-              </linked>
             <offset x="0.711596" y="-6.09693"/>
             <text>A3 Platinum</text>
             </RehearsalMark>
@@ -5557,7 +5548,6 @@
           <Rest>
             <eid>epx4g/CuSxF_UyJJpRLgOqD</eid>
             <linked>
-              <indexDiff>2</indexDiff>
               </linked>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -6310,12 +6300,7 @@
         <voice>
           <RehearsalMark>
             <eid>HFOBa2I1WhH_j02oLw17eAJ</eid>
-            <linked>
-              <location>
-                <staves>-10</staves>
-                </location>
-              <indexDiff>1</indexDiff>
-              </linked>
+            <linkedMain/>
             <text>B3 - פזמון כפיים</text>
             </RehearsalMark>
           <Rest>
@@ -6333,12 +6318,12 @@
         <eid>u4adFbqvgLM_ReRf/IA32iN</eid>
         <voice>
           <RehearsalMark>
-            <eid>yvbwV0LOaAJ_qxRWkVOvPXD</eid>
+            <eid>xHEcj7BSxaL_s/r3mD4oc6I</eid>
             <linked>
+              <score>same</score>
               <location>
                 <staves>-10</staves>
                 </location>
-              <indexDiff>1</indexDiff>
               </linked>
             <text>B3 - פזמון כפיים</text>
             </RehearsalMark>
@@ -6489,11 +6474,6 @@
         <voice>
           <RehearsalMark>
             <eid>P+vAbeJtmkI_etIMI5vKO5G</eid>
-            <linked>
-              <location>
-                <staves>-10</staves>
-                </location>
-              </linked>
             <text>Vamp</text>
             </RehearsalMark>
           <Harmony>
@@ -6843,11 +6823,6 @@
             </Chord>
           <SystemText>
             <eid>dyNHjGzUNMH_wEmDHe4xh3B</eid>
-            <linked>
-              <location>
-                <staves>-10</staves>
-                </location>
-              </linked>
             <text>לחזור מלאנתלפים פעמים</text>
             </SystemText>
           <Chord>
@@ -6878,7 +6853,7 @@
             <eid>sPXVO407iJO_iLnql6UU9vN</eid>
             <linked>
               </linked>
-            <durationType>quarter</durationType>
+            <durationType>whole</durationType>
             <Note>
               <eid>kixC4qINdkM_KlKgQuc/A8P</eid>
               <linked>
@@ -6887,18 +6862,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <eid>mthxpiCYGIC_WAbdmG1+zvP</eid>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <eid>Ltz5kaBj3hO_kBw8npvUJME</eid>
-            <linked>
-              </linked>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>

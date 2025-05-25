@@ -1,14 +1,6 @@
 {
     "tracks": [
         {
-            "instrumentId": "voice",
-            "partId": "1",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "chord_symbols",
             "partId": "5",
             "soloMuteState": {
@@ -19,6 +11,14 @@
         {
             "instrumentId": "violin",
             "partId": "3",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "voice",
+            "partId": "1",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -57,16 +57,16 @@
             }
         },
         {
-            "instrumentId": "alto-saxophone",
-            "partId": "7",
+            "instrumentId": "chord_symbols",
+            "partId": "3",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "chord_symbols",
-            "partId": "3",
+            "instrumentId": "alto-saxophone",
+            "partId": "7",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
