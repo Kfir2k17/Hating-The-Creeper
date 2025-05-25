@@ -9,6 +9,14 @@
             }
         },
         {
+            "instrumentId": "violin",
+            "partId": "3",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "voice",
             "partId": "1",
             "soloMuteState": {
@@ -49,16 +57,8 @@
             }
         },
         {
-            "instrumentId": "alto-saxophone",
-            "partId": "7",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "chord_symbols",
-            "partId": "7",
+            "partId": "3",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

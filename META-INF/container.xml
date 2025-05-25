@@ -9,8 +9,8 @@
     <rootfile full-path="Excerpts/1_Flute/1_Flute.mscx"/>
     <rootfile full-path="Excerpts/2_Violin/2_Violin.mss"/>
     <rootfile full-path="Excerpts/2_Violin/2_Violin.mscx"/>
-    <rootfile full-path="Excerpts/3_Alto_Saxophone_1/3_Alto_Saxophone_1.mss"/>
-    <rootfile full-path="Excerpts/3_Alto_Saxophone_1/3_Alto_Saxophone_1.mscx"/>
+    <rootfile full-path="Excerpts/3_Alto_Saxophone/3_Alto_Saxophone.mss"/>
+    <rootfile full-path="Excerpts/3_Alto_Saxophone/3_Alto_Saxophone.mscx"/>
     <rootfile full-path="Excerpts/4_Tenor_Saxophone/4_Tenor_Saxophone.mss"/>
     <rootfile full-path="Excerpts/4_Tenor_Saxophone/4_Tenor_Saxophone.mscx"/>
     <rootfile full-path="Excerpts/5_Synthesiser/5_Synthesiser.mss"/>
@@ -32,8 +32,8 @@
     <rootfile full-path="Excerpts/1_Flute/audiosettings.json"/>
     <rootfile full-path="Excerpts/2_Violin/viewsettings.json"/>
     <rootfile full-path="Excerpts/2_Violin/audiosettings.json"/>
-    <rootfile full-path="Excerpts/3_Alto_Saxophone_1/viewsettings.json"/>
-    <rootfile full-path="Excerpts/3_Alto_Saxophone_1/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_Alto_Saxophone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_Alto_Saxophone/audiosettings.json"/>
     <rootfile full-path="Excerpts/4_Tenor_Saxophone/viewsettings.json"/>
     <rootfile full-path="Excerpts/4_Tenor_Saxophone/audiosettings.json"/>
     <rootfile full-path="Excerpts/5_Synthesiser/viewsettings.json"/>
