@@ -65,6 +65,22 @@
             }
         },
         {
+            "instrumentId": "alto-saxophone",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "chord_symbols",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "tenor-saxophone",
             "partId": "9",
             "soloMuteState": {
@@ -81,15 +97,15 @@
             }
         },
         {
-            "instrumentId": "bass-synthesizer",
-            "partId": "11",
+            "instrumentId": "electric-piano",
+            "partId": "6",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "electric-piano",
+            "instrumentId": "chord_symbols",
             "partId": "6",
             "soloMuteState": {
                 "mute": true,
@@ -115,22 +131,6 @@
         {
             "instrumentId": "drumset",
             "partId": "2",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "6",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "chord_symbols",
-            "partId": "11",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
